@@ -1,4 +1,4 @@
-### Plan
+### План занятия
 1. Group Chat
     * https://gitter.im/rolling-scopes-school/padawans
     * https://gitter.im/rolling-scopes-school/announcements
@@ -14,11 +14,11 @@
 8. RS Padawans - http://34.204.11.123
 9. [Stage#1 Tasks](https://github.com/rolling-scopes-school/tasks)   
 
-### Materials
-* http://dzmitry-varabei.github.io/front-end-course/lecture-0-course-intro/#/
-* https://www.youtube.com/watch?v=ch5vXi45ttg
+### Материалы занятия 
+* Слайды - http://dzmitry-varabei.github.io/front-end-course/lecture-0-course-intro/#/
+* Видеозапись - https://www.youtube.com/watch?v=ch5vXi45ttg
 
-### Feedback
+### Оставить отзыв
 * https://docs.google.com/forms/d/1F4NeS0oBq-CY805aqiPVp6CIrl4_nIYJ7Z_vUcMOFrQ/viewform
 
 ### Полезные ссылки
