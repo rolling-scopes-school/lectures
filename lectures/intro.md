@@ -1,13 +1,13 @@
 ### Plan
 1. Group Chat
-  * https://gitter.im/rolling-scopes-school/padawans
-  * https://gitter.im/rolling-scopes-school/announcements
+    * https://gitter.im/rolling-scopes-school/padawans
+    * https://gitter.im/rolling-scopes-school/announcements
 2. The Rolling Scopes Overview
 3. The Rolling Scopes School Overview
 4. EPAM
-   * Telescope
-   * Benefits Navigator
-   * Outsourcing vs PDS
+     * Telescope
+     * Benefits Navigator
+     * Outsourcing vs PDS
 5. Course Structure
 6. [Curriculum](https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1ymelvE/edit#gid=0)
 7. [Roles: Student / Trainer / Mentor](https://docs.google.com/document/d/1LdruvgRWuLEkCald2lrNlgIdDCzImYa3fe6IxVblBnI/edit)
