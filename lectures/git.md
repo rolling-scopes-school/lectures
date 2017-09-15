@@ -15,4 +15,5 @@ https://github.com/rolling-scopes/front-end-course/wiki/Git-guidelines
 #### Online courses
 
 https://www.codeschool.com/courses/try-git
+
 https://www.codeschool.com/courses/git-real
