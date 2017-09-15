@@ -11,7 +11,7 @@
 5. Course Structure
 6. [Curriculum](https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1ymelvE/edit#gid=0)
 7. [Roles: Student / Trainer / Mentor](https://docs.google.com/document/d/1LdruvgRWuLEkCald2lrNlgIdDCzImYa3fe6IxVblBnI/edit)
-8. RS Padawans - http://34.204.11.123
+8. RS Padawans - http://epa.ms/padawans
 9. [Stage#1 Tasks](https://github.com/rolling-scopes-school/tasks)   
 
 ### Материалы занятия 
