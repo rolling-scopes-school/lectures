@@ -22,7 +22,7 @@ https://validator.w3.org/
 Example:
 Siarhei Shaliapin
 HTML homework
-https://www.codecademy.com/ra_Levis
+https://www.codecademy.com/users/ra_Levis/achievements
 
 Deadline         26.09.2016 23:59 
 
