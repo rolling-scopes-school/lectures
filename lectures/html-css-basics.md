@@ -24,5 +24,5 @@ Siarhei Shaliapin
 HTML homework
 https://www.codecademy.com/ra_Levis
 
-Deadline         26.09.2016 23:59 
+Deadline         26.09.2017 23:59 
 
