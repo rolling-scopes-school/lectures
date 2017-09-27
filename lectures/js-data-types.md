@@ -8,9 +8,12 @@
   - Primitive data types
   - Variable declaration
   - Declaration with assignment
+  - Single var pattern
   - Null
   - typeof
+  - Primitives as objects
   - Number
+  - NaN
   - String
   - Convertion
   - Boolean
@@ -22,9 +25,11 @@
   - Functions
   - Type coercions
   - Equality vs Identity
+  - Unusual operators
   - Constants
   - Comments
   - Eval
+  - Embedding script in HTML
 
 ### Practice
   - http://www.codewars.com/kata/opposite-number
