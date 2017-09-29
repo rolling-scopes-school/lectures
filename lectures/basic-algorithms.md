@@ -25,3 +25,10 @@ https://www.codewars.com/kata/convert-a-linked-list-to-a-string
 https://www.codewars.com/kata/array-deep-count
 
 https://www.codewars.com/kata/mutual-recursion
+
+### Links
+- [Interesting tasks with ideas 'How to..'](https://www.interviewcake.com/all-questions/javascript)
+- [Every Programmer Should Know](https://github.com/MR-MIG/EVERY-PROGRAMMER-SHOULD-KNOW)
+- [Interview Algorithm](http://www.thatjsdude.com/interview/js1.html)
+- [Interview Questions](https://khan4019.github.io/front-end-Interview-Questions/sort.html)
+- [JSPerf](https://jsperf.com/)
