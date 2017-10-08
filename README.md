@@ -7,3 +7,4 @@
 5. [JS Intro](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/js-intro.md)
 6. [JS Data Types](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/js-data-types.md)
 7. [Basic Algorithms](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/basic-algorithms.md)
+9. [Web typography](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/web-typography.md)
