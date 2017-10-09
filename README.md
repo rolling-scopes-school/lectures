@@ -8,5 +8,6 @@
 6. [JS Data Types](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/js-data-types.md)
 7. [Basic Algorithms](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/basic-algorithms.md)
 8. [JS Scope](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/js-scope.md)
+9. [JS Functions. Part I](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/js-functions.md)
 9. [Position. Floats. Semantics. CSS3](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/position-floats-semantics-css3.md)
 10. [Web typography](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/web-typography.md)
