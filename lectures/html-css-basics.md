@@ -6,6 +6,12 @@
 
 https://slides.com/ra_levis/html_css_basics
 
+### Video
+
+https://youtu.be/FCuMPo-omJ4 (Part 1)
+
+https://youtu.be/OOVayP9HDTg (Part 2)
+
 ### Task
 
 https://github.com/rolling-scopes-school/tasks/blob/2017-Q3/tasks/Codecademy_HTML_CSS_Course.md
