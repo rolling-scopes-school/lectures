@@ -2,6 +2,10 @@
 - http://dzmitry-varabei.github.io/front-end-course/lecture-5-func/#/
 - http://dzmitry-varabei.github.io/front-end-course/lecture-5-func/index-part2.html#/
 
+### Video
+- https://youtu.be/vgg0ZpG4VYc (Part I)
+- https://youtu.be/1eaifEEfbIw (Part II)
+
 ### Content
 
 __Part I__ 
