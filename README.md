@@ -11,3 +11,7 @@
 9. [JS Functions. Part I](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/js-functions.md)
 9. [Position. Floats. Semantics. CSS3](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/position-floats-semantics-css3.md)
 10. [Web typography](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/web-typography.md)
+
+
+### Предыдущая версия списка лекций
+https://github.com/rolling-scopes/front-end-course/wiki/Course-Curriculum-2.0
