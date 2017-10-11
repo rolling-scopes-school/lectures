@@ -1,6 +1,10 @@
 ### Slides
 - http://dzmitry-varabei.github.io/front-end-course/lecture-1-history/#/
 
+### Video
+
+https://youtu.be/V2f7mXMYtYA
+
 ### Content
 
 1. JavaScript Overview.
