@@ -4,6 +4,8 @@
 
 ### Slides: http://slides.com/sergey_kovalchuk/algorithms
 
+### Video: https://youtu.be/S4Leu_MnKOc
+
 ### Content Parts
     1 Common information about algorithms
     2 BIG O
