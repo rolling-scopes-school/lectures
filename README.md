@@ -11,6 +11,12 @@
 9. [JS Functions. Part I](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/js-functions.md)
 9. [Position. Floats. Semantics. CSS3](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/position-floats-semantics-css3.md)
 10. [Web typography](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/web-typography.md)
+11. Stage #1 Retrospective
+12. Photoshop basics
+13. ES6. Let, Const and arrow functions. Airbnb JavaScript Style Guide 
+14. JS Functions. Part II
+15. Array.prototype.*
+16. Inheritance in JavaScript. ES6 Classes.
 
 
 ### Предыдущая версия списка лекций
