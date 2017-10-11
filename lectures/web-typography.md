@@ -4,6 +4,9 @@
   - Hyphenation and dash/hyphen types
   - Kerning
   - OpenType font features and font-feature-settings property
+
+### Video:
+  - https://youtu.be/rs011J8cT-4
   
 ### Links:
 * http://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881791326
