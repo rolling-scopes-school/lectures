@@ -3,3 +3,6 @@
     * jsfiddle
     * clip2net
     * Chrome Dev Tools
+
+### Video 
+https://youtu.be/1TiJTQcreJ4
