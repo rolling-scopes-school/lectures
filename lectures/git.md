@@ -6,6 +6,10 @@
 
 http://slides.com/uladzimirhalushka/deck-1
 
+#### Video
+
+https://youtu.be/ankvwnNJFPA
+
 #### Useful links 
 
 https://git-scm.com/book/id/v2/Getting-Started-Git-Basics
