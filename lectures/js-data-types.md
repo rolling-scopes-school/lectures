@@ -1,6 +1,10 @@
 ### Slides
 - [JS Data Types](https://docs.google.com/presentation/d/1C1ri0y3tVPgbFSgg2u-ohUzZasT6WlPTB-dViNH1Eyo/embed)
 
+### Video
+
+https://youtu.be/Jnf--72z8bs
+
 ### Content
 
 1. Data types
