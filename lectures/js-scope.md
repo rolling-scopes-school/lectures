@@ -1,6 +1,9 @@
 ### Slides:
 http://dzmitry-varabei.github.io/front-end-course/lecture-3-recap-scope/scope.pptx
 
+### Video:
+https://youtu.be/vgg0ZpG4VYc
+
 ### Content:
 - Scopes defenition
 - Nested scope
