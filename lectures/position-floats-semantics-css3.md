@@ -2,6 +2,9 @@
   - [Box Model](http://slides.com/maria_putyrskaya/css-elements-layout-and-position#/)
   - [CSS3 Basics](http://slides.com/eugenekravch/deck)
   - [Semantics](http://slides.com/maria_putyrskaya/semantics#/)
+  
+### Video
+  - https://youtu.be/gYYWe7vlEQk
 
 ### Improve your CSS selectors skills:
 http://flukeout.github.io/
