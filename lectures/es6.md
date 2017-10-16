@@ -6,6 +6,7 @@
 #### Slides 
 
 http://slides.com/uladzimirhalushka/deck-2-3
+
 http://slides.com/uladzimirhalushka/deck-2
 
 #### Video
