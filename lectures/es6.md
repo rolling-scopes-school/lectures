@@ -1,5 +1,5 @@
 
-### Git Basics
+### ES6 Basics & Styleguides
 
 #### Trainers: Uladzimir Halushka
 
