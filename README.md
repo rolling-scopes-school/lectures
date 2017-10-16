@@ -12,7 +12,7 @@
 9. [Position. Floats. Semantics. CSS3](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/position-floats-semantics-css3.md)
 10. [Web typography](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/web-typography.md)
 11. Stage #1 Retrospective
-12. Photoshop basics
+12. [Photoshop basics](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/photoshop-basics.md)
 13. ES6. Let, Const and arrow functions. Airbnb JavaScript Style Guide 
 14. JS Functions. Part II
 15. Array.prototype.*
