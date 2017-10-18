@@ -52,3 +52,6 @@ __JetBrains WebStorm__
 - Emmet
 - Preview mode
 
+ __Basic Tools__ [Slides](http://dzmitry-varabei.github.io/front-end-course/lecture-0-basic-tools/basic_tools.pptx)	
+ -  jsfiddle		
+ -  clip2net
