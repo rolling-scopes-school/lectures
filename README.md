@@ -15,7 +15,7 @@
 12. [Photoshop basics](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/photoshop-basics.md)
 13. [ES6. Let, Const and arrow functions. Airbnb JavaScript Style Guide](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/es6.md)
 14. [JS Functions. Part II](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/js-functions-part-two.md) 
-15. [JS Arrays](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/js-arrays.md)
+15. [Array.prototype.*](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/js-arrays.md*)
 16. [Inheritance in JavaScript. ES6 Classes.](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/inheritance-in-js-and-es6-classes.md) 
 
 
