@@ -18,7 +18,7 @@
 16. [Array.prototype.*](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/js-arrays.md)
 17. [Inheritance in JavaScript. ES6 Classes.](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/inheritance-in-js-and-es6-classes.md) 
 18. [DOM](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/dom.md)
-19. Float & Positioning. Error Analysis
+19. [Float & Positioning. Error Analysis](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/float-positioning-error-analysis.md)
 20. [CSS Recipies and Layouts](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/css-recipies-and-layouts.md)
 21. [DOM Events](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/dom-events.md)
 
