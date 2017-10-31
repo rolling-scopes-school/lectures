@@ -6,6 +6,9 @@
 
 ### Video
 - https://youtu.be/k2GtDJKC6HQ
+##### CSS Recipes
+- https://youtu.be/DbutriT37aI
+- https://youtu.be/8IdwZzGeErQ
 
 ### Content
 
