@@ -3,15 +3,17 @@
 
 - RWD + Flexbox: http://stanislauzubovich.github.io/RWD/
 - CSS Grid Layout: http://slides.com/ra_levis/deck#/
+- CSS Recipes: http://anastasia-tayanovskaya.github.io/css-recipes/
 
 ### Video
 - https://youtu.be/k2GtDJKC6HQ
-##### CSS Recipes
+#### CSS Recipes
 - https://youtu.be/DbutriT37aI
 - https://youtu.be/8IdwZzGeErQ
 
 ### Content
 
+#### RWD + Flexbox
 1. What is RWD?
 2. Core Techniques
 	* Fluid Foundation
@@ -55,3 +57,16 @@
 	* order
 	* flex-wrap
 	* align-content
+#### CSS Recipes
+- Horizontal centering of the block element
+- Horizontal centering of texts
+- Vertical align of inline-block elements (2 techniques)
+- Centering of a block element with horizontal and vertical given parameters (2 techniques)
+- Centering of an element with unknown horizontal and vertical parameters
+- How to use pseudo elements :after and :before
+- How to center an element – useful links
+- How to trim texts with an ellipsis
+- How to stick a footer to the bottom of the page
+- Sliding door technique
+- How to use CSS3 for buttons
+- How to create different page layouts
