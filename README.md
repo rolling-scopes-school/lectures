@@ -19,7 +19,7 @@
 17. [Inheritance in JavaScript. ES6 Classes.](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/inheritance-in-js-and-es6-classes.md) 
 18. DOM
 19. Float & Positioning. Error Analysis
-20. CSS Recipies and Layouts
+20. [CSS Recipies and Layouts](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/css-recipies-and-layouts.md)
 21. DOM Events
 
 
