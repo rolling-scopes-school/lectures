@@ -21,6 +21,7 @@
 19. [Float & Positioning. Error Analysis](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/float-positioning-error-analysis.md)
 20. [CSS Recipies and Layouts](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/css-recipies-and-layouts.md)
 21. [DOM Events](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/dom-events.md)
+22. [Event Loop. Animations](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/event-loop-and-animations.md)
 
 
 ### Предыдущая версия списка лекций
