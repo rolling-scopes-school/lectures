@@ -1,3 +1,6 @@
+### Video
+- https://youtu.be/dG5ZaHYdre8
+
 ### Slides
 - http://rolling-scopes.github.io/slides/school/event-loop/#/
 - http://wontem.github.io/slides/animations/#/
