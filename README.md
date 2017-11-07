@@ -23,6 +23,7 @@
 21. [DOM Events](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/dom-events.md)
 22. [Event Loop. Animations](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/event-loop-and-animations.md)
 23. [CSS Preprocessors. SASS](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/css-preprocessors.md)
+24. [Game Dev. Promises. Callbacks](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/promises-game-dev.md)
 
 ### Предыдущая версия списка лекций
 https://github.com/rolling-scopes/front-end-course/wiki/Course-Curriculum-2.0
