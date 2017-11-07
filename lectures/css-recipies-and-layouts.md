@@ -19,7 +19,7 @@
 	* Fluid Foundation
 	* Flexible Content
 	* Media Queries
-3. Responsigve Web Design (http://alistapart.com/article/responsive-web-design)
+3. Responsive Web Design (http://alistapart.com/article/responsive-web-design)
 4. Mobile vs. Desktop browsing
 5. Grid
 6. Layout
