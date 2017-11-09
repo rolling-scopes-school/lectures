@@ -19,3 +19,7 @@
 * Event Object props and methods
 * Event capturing and bubbling
 * Event delegation
+
+### Useful links
+- [An introduction to DOM Events](http://www.smashingmagazine.com/2013/11/12/an-introduction-to-dom-events/)
+- [Event capturing/bubbling explanation](https://www.youtube.com/watch?v=0sfPDJiMTXk)
