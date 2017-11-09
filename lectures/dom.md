@@ -11,3 +11,7 @@
 * `ClassList` API
 * `HTMLElement` props & methods
 * `document`
+
+### Useful links
+- [Custom Elements](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/)
+- [Shadow DOM 101](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/)
