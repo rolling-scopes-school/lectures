@@ -25,5 +25,8 @@
 23. [CSS Preprocessors. SASS](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/css-preprocessors.md)
 24. [Game Dev. Promises. Callbacks](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/promises-game-dev.md)
 
+###  Coming soon 
+[Node.js](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/nodejs.md)
+
 ### Предыдущая версия списка лекций
 https://github.com/rolling-scopes/front-end-course/wiki/Course-Curriculum-2.0
