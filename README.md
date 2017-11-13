@@ -24,6 +24,7 @@
 22. [Event Loop. Animations](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/event-loop-and-animations.md)
 23. [CSS Preprocessors. SASS](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/css-preprocessors.md)
 24. [Game Dev. Promises. Callbacks](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/promises-game-dev.md)
+25. [JS Modules](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/js-modules.md)
 
 ###  Coming soon 
 [Node.js](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/nodejs.md)
