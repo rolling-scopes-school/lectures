@@ -10,3 +10,8 @@ WIP
 прикрутить verror, winston
 дебаггинг в консоли, в нод инспекторе
 4) oauth, passport.js и websocket server
+
+### Trainers:
+- https://github.com/wegorich
+- https://github.com/shutya
+- https://github.com/mmetelskiy
