@@ -27,7 +27,7 @@
 25. [JS Modules](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/js-modules.md)
 26. [Webpack. Assets management. Project Structure](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/webpack.md)
 27. [Lodash](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/lodash.md)
-28. [Match Match game. Error Analysis](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/match-match game-error-analysis.md)
+28. [Match Match game. Error Analysis](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/match-match-game-error-analysis.md)
 
 ###  Coming soon 
 [Node.js](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/nodejs.md)
