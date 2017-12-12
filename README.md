@@ -29,6 +29,7 @@
 27. [Lodash](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/lodash.md)
 28. [Match Match game. Error Analysis](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/match-match-game-error-analysis.md)
 29. [WebSocket Challenge](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/websocket-challenge.md)
+30. [CSS Frameworks](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/css-frameworks.md)
 
 ###  Coming soon 
 [Node.js](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/nodejs.md)
