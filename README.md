@@ -30,7 +30,7 @@
 28. [Match Match game. Error Analysis](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/match-match-game-error-analysis.md)
 29. [WebSocket Challenge](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/websocket-challenge.md)
 30. [CSS Frameworks](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/css-frameworks.md)
-30. [React/Redux (Part 1)](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/react-redux-part-1.md)
+31. [React/Redux (Part 1)](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/react-redux-part-1.md)
 
 ###  Coming soon 
 [Node.js](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/nodejs.md)
