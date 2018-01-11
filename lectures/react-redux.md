@@ -2,6 +2,9 @@
 - [Lecture 1](https://www.youtube.com/watch?v=WDigu9hisHk)
 - [Lecture 2](https://www.youtube.com/watch?v=iW0xE1KJCAg)
 
+### Trainer
+Pavel Spichonak
+
 ### Lecture 1
 ```
 По поводу вчерашней лекции:
