@@ -1,6 +1,7 @@
 ### Video
 - [Lecture 1](https://www.youtube.com/watch?v=WDigu9hisHk)
 - [Lecture 2](https://www.youtube.com/watch?v=iW0xE1KJCAg)
+- [Lecture 3](https://www.youtube.com/watch?v=-ILL4vS8kos)
 
 ### Trainer
 Pavel Spichonak
@@ -43,4 +44,19 @@ https://github.com/kriasoft/react-starter-kit
 -- компоненты лежат внутрь app/components, точка входа в приложение app/app.js
 
 документация по styled-components - https://www.styled-components.com/docs/basics, стили внутрь javascript-а
+```
+
+### Lecture 3
+```
+Привет. Основное из вчерашней лекции:
+
+документация по redux-у https://redux.js.org/
+в подразделе есть также, как связать с библиотекой react-redux
+https://redux.js.org/docs/basics/UsageWithReact.html
+Популярные и полезные библиотеки при работе с react-ом и redux-ом:
+
+https://facebook.github.io/immutable-js/
+https://github.com/reactjs/reselect
+https://redux-saga.js.org/
+https://github.com/paularmstrong/normalizr
 ```
