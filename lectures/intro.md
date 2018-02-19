@@ -22,10 +22,6 @@
 8. RS Padawans - http://epa.ms/padawans
 9. [Stage#1 Tasks](https://github.com/rolling-scopes-school/tasks)   
 
-### Материалы занятия 
-* Слайды - http://dzmitry-varabei.github.io/front-end-course/lecture-0-course-intro/#/
-* Видеозапись - https://www.youtube.com/watch?v=ch5vXi45ttg
-
 ### Оставить отзыв
 * https://docs.google.com/forms/d/1F4NeS0oBq-CY805aqiPVp6CIrl4_nIYJ7Z_vUcMOFrQ/viewform
 
