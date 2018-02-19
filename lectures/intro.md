@@ -15,6 +15,7 @@
     * https://www.youtube.com/user/therollingscopes
     * https://www.facebook.com/groups/TheRollingScopes/
     * https://vk.com/therollingscopes
+    * #RSConf2018 https://tech.onliner.by/2018/02/10/the-rolling-scopes
 3. The Rolling Scopes School Overview
     * https://github.com/rolling-scopes-school/lectures
     * https://github.com/rolling-scopes-school/tasks
