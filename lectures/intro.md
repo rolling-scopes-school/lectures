@@ -25,7 +25,7 @@
      * Telescope
      * Benefits Navigator
      * Outsourcing vs PDS
-5. Course Structure
+5. Course Structure. [Расписание прошлого набора](https://docs.google.com/spreadsheets/d/1igiddZ6vnrm2WpnrAiogAI0iamElguZBFRG5Xfdhvyc/edit?usp=drive_web&ouid=110663037476660424975)
 6. [Curriculum](https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1ymelvE/edit#gid=0)
 7. [Roles: Student / Trainer / Mentor](https://docs.google.com/document/d/1LdruvgRWuLEkCald2lrNlgIdDCzImYa3fe6IxVblBnI/edit)
 8. RS Padawans - https://epa.ms/padawans-2018
