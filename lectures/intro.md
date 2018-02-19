@@ -1,3 +1,4 @@
+### Запись лекции - https://youtu.be/fqZVq-I2Zt4
 ### Конспект занятия
 
 **The Rolling Scopes School** - это бесплатные курсы по JavaScript/Front-end, проводимые под 
