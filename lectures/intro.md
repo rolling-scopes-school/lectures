@@ -1,4 +1,12 @@
 ### Конспект занятия
+
+```
+The Rolling Scopes School -это бесплатные курсы по JavaScript/Front-end проводимые под эгидой сообщества разработчиков The Rolling Scopes.
+
+Продолжительность обучения: от 2 до 7 месяцев в зависимости от успеваемости. 
+Расписание теоретически занятий: 2-3 раза в неделю с 19:00 до 21:00. Обычно понедельник-среда-пятница. 
+```
+
 0. Посмотреть предыдушее вводное занятие - https://www.youtube.com/watch?v=ch5vXi45ttg. Лучше смотреть на скорости 1.25 или 1.5
 1. Group Chat
     * https://gitter.im/rolling-scopes-school/padawans (Общий чат)
@@ -12,7 +20,9 @@
     * https://github.com/rolling-scopes-school/lectures
     * https://github.com/rolling-scopes-school/tasks
     * https://www.youtube.com/watch?list=PLe--kalBDwjhni4LpATaJscPwZUudxVHS&v=ch5vXi45ttg
+    * Code-of-conduct
 4. EPAM
+     * 25 years of growth
      * Telescope
      * Benefits Navigator
      * Outsourcing vs PDS
