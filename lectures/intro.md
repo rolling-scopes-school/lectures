@@ -22,5 +22,11 @@
 8. RS Padawans - https://epa.ms/padawans-2018
 9. [Stage#1 Tasks](https://github.com/rolling-scopes-school/tasks)   
 
+### FAQ
+1. Распределение
+Распределение возможно только после прохождения курсов и последующего зачисления на проект.
+2. Учебная практика
+Всем официально зачисленным на 4й этап обучения можно проходить учебную практику в ЭПАМ. Занятия в школе будут засчитаны в счет практики.
+
 ### Оставить отзыв
 * https://docs.google.com/forms/d/1F4NeS0oBq-CY805aqiPVp6CIrl4_nIYJ7Z_vUcMOFrQ/viewform
