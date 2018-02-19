@@ -1,7 +1,8 @@
 ### План занятия
 1. Group Chat
-    * https://gitter.im/rolling-scopes-school/padawans
-    * https://gitter.im/rolling-scopes-school/announcements
+    * https://gitter.im/rolling-scopes-school/padawans (Общий чат)
+    * https://gitter.im/rolling-scopes-school/questions (Обсуждение заданий)
+    * https://gitter.im/rolling-scopes-school/announcements (Важные анонсы, сюда пишут только тренеры и менторы)
 2. The Rolling Scopes Overview
 3. The Rolling Scopes School Overview
 4. EPAM
