@@ -4,6 +4,10 @@ https://youtu.be/1TiJTQcreJ4
 
 
 ### Content
+
+## Command Line
+[10 Terminal Commands That Will Boost Your Productivity](http://code.tutsplus.com/articles/10-terminal-commands-that-will-boost-your-productivity--net-14105)
+
 __Visual Studio Code__
 
 - Atom vs Visual Studio Code
