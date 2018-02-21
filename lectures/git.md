@@ -83,17 +83,10 @@ Git allows a developer to copy a remote subversion repository to a local instanc
 
 
 #### Useful links 
-
-https://git-scm.com/book/id/v2/Getting-Started-Git-Basics
-
-http://alistapart.com/article/the-art-of-the-commit
-
-https://github.com/rolling-scopes/front-end-course/wiki/Git-guidelines
-
-https://www.atlassian.com/git/tutorials/merging-vs-rebasing
+-  https://git-scm.com/book/id/v2/Getting-Started-Git-Basics
+- http://alistapart.com/article/the-art-of-the-commit
+- https://www.atlassian.com/git/tutorials/merging-vs-rebasing
 
 #### Online courses
-
-https://www.codeschool.com/courses/try-git
-
-https://www.codeschool.com/courses/git-real
+- https://www.codeschool.com/courses/try-git
+- https://www.codeschool.com/courses/git-real
