@@ -33,8 +33,9 @@
 31. [React/Redux](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/react-redux.md)
 
 ###  Coming soon 
-[Node.js](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/nodejs.md)
-[Angular](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/angular.md)
+- [Node.js](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/nodejs.md)
+- [Angular](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/angular.md)
+- [Functional Programming](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/fp.md)
 
 ### Предыдущая версия списка лекций
 https://github.com/rolling-scopes/front-end-course/wiki/Course-Curriculum-2.0
