@@ -1,4 +1,4 @@
-#  Лекции
+#  List of Lectures
 
 1. [Course Overview](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/intro.md) 
 2. [IDE Battle](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/IDE-battle.md)
