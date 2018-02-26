@@ -1,123 +1,105 @@
-I. FP elements
+Introduction to FP
 
-  1. Death to JS OOP
+1. FP Overview [2h+]
+  * Evolution of imperative programming
+  * Lisp interpreter
+  * Turing machine, Backus speech
+  * Haskell origins
+  * Lambda calculus
+  * Type theory
+  * Category theory
+  * Denotational semantics
+  * Immutable data, Circle-Ellipse, mutable collections problem
+  * Formal logic, Curry-Howard isomorphism
+  * FP today: landscape, languages, Computer Science, communities, the Rift between scientific and commercial programming
+  * Correctness proof and code verification
 
-    1.1 this -> arg
-      * implicit argument
-      * auto-binding
-      * only needed for prototype resolution
-      * fuck methods
-      * type constructors and operations
-      
-    1.2 rethinking polymorphism 
-      * inheritance/overriding sucks (multilayer, scattered abstraction)
-        Circle-Ellipse problem
-      * mixin chaos
-      * generalize type/structure creation -> explicit & declarative 
-      * classic Form example: (fuck redundant types)
-          Form class -> Form type (instance -> structure, methods -> functions)          
-      * interfaces -> duck typing vs OOP & as a general modern practice
-        row polymorphism (?)
-      * functions as the most polymorphic entity (vs. type "aliasing" in OOP, naming vs type expressiveness)
-     !* SOLID bull$h1t
-        SOLID as an after-constraint, OOP is too arbitrary, no way to enforce
-        S in FP 
-        O (see above)
-        L in FP (subtyping, covariance & contravariance)
-        I solved with ADTs                         <-- yo, types
-        D no D.Inj. & functions as implementations <-- yo, types
-          hole-in-the-middle example
+2. Lambda Calculus [1.5h]
+  * Application, abstraction, terms
+  * Reduction/conversion
+  * SKI, iota
+  * Church encoding: Boolean, Integer and related functions, Tuples
+  * => Sum & Product types
 
-  2. Better functions
+Task: Church encoding exercises
 
-    2.1 Common functions and FP patterns
-      * lambda calc. combinators (I, K) and so on
-      * lodash / FP: negate example and why,  _.partial, _.flow
-      * _.rearg and wrapper function
-      * control flow using functions (hash map example)
-      * memoization (cssqd example)
+3. Combinators-based DSLs  [1.5h]
+  * Predicate logic: basic functions
+  * Filtering with predicate combinators
+ (*) Transforming predicate trees
 
-    2.2 Curried functions
-      * lambda calculus
-      * easy partial application
-      * lodash _.curry[Right] and lodash FP
-        examples
+3. Basic Data Structures [1.5h]
+  * Immutability & persistence
+  * List as a computation, recursive definition
+  * List: Folding, mapping, etc.
+  * ...
 
-    2.3 Pure functions
-      * Criteria and why they matter: predictability (tests) & debugging focus + tabular optimization (V8?)
-        Parallel/Concurrent programming
-      * Referential transparency example
-                        
-    2.3 Higher-order functions
-      * HOFs and where to find them in JS (array method args, Promises)
-      * HOFs vs. closures (example)
-      * wrapping functions & _.wrap (example)
-      * forcing types using HOFs: Maybe example
+Task: List functions
 
-    2.4 recursion and CPS
-      * recursion as a specific case of HOF
-      * recursive flow control
-      * CPS 
-      * tail recursion
-     !* TCO [in ES] and trampolining
+4. Recursion [1.5h]
+  * Recursion, Y combinator, memoization
+  * Divide & Conquer algorithms
+  * Basic recursion schemes
+  * TCO, trampolining
+
+Task: D&C problems: imperative vs. recursive
+
+5. Lazy evaluation [1.5h]
+  * Pros and cons of LE
+  * LE & pure functions
+  * Lazily-evaluated sequences (<= List)
+  * LE for modularity: producer & consumer, tic-tac-toe pearl
+
+6. Types I [2h]
+  * ADTs, Sum & Product revision
+  * Maybe 
+  * Functor, variance, Bifunctor etc.
+  * Lenses
+
+7. Applicative validation [2h]
+  * What's wrong with imperative exception handling
+  * Applicative functors
+  * Applicative validation with Either
+  * Validation functors
+
+8. Types II [1.5h]
+  * Monad: definition, motivation
+  * Do notation
+  * Maybe/Either example
   
-    2.5 Point-free notation
-      * Lambda calculus form
-      * composition; tacit programming
-      * composition of functions of variable arity -> finding the nature of a computation
-      * reusing/abusing existing functions: example: constant using _.identity
-      * expressive DSLs using point-free combinators (parsing/compiling example)
-      * no(/generated) tests
+9. Types III [2h] 
+  * IO monad
+  * Continuation monad
+  * State monad
 
-  3. Lazy vs. Strict evaluation
-    3.1 Lazy evaluation: good & evil (implicit state, memory management, generalization)
-    3.2 Lazy JS with generators and really lazy async/await (and why it only makes sense with pure funcs)      
-   !3.3 Modularity leveraging lazy evaluation https://hackhands.com/modular-code-lazy-evaluation-haskell/
-    
-  4. Side-effects and mutable state
-    4.1 Why state is so bad: from DOM to microservices to Serverless
-      => anything shared is not safe (source of change? order of change?)
-    4.2 _F_SM vs objects (order and concurrency)
-    4.2 What is inevitably stateful: IO, persistence, DOM(=> React, game World concept)
-    4.3 Side effects and _simple_ ways of dealing with them: state-passing style, Redux
-      * Immutable data structures: cons, Okasaki stuff, Immutable.js
-     !* Pure components in React
-    4.4 Beware of closures
-      
-  5. FRP
-    5.1 events & pub/sub suck
-    5.2 streams, signals, cells and operations 
-    5.3 data flow UI application (data stream transformation example)
-    5.4 RxJS/Bacon/...
+10. Mogensen-Scott encoding [1.5h]
+  * Scott encoding: Maybe, Either, enums, Bool, List, Binary Tree
+  * matching function  
+  * Mogensen extension
+  
+11. Typeclasses [2.5h]
+  * Encoding typeclasses as function args/products
+  * Show typeclass
+  * Monoid typeclass
+  * Functor, Applicative, Monad typeclasses
+  * Writer monad
+  * Foldable & Traversable
+  * Deriving Functor and Applicative from Monad
 
-  6. Beyond JS
+12. Parsing I [2h]
+  * Parser monad, combinators
+  * Lazy JSON parser
 
-    6.1 ClojureScript
-      * Lisp motivation (forms, macros)
-      * Data structures as functions
-      * Side-effects in CL/JS (atoms)
-      * Transducers & in JS
-     ?* Dynamic typing
-      
-    6.2 PureScript/Haskell
-      * Function syntax
-      * Purity & side-effect tracking (example http://hal2016.haskell.org/program.html#russo)
-      * Type checking & type inference
-      * Advanced Type system: typeclasses, category-theory based types, ADTs
-      * Language features: 
-        curried pure functions
-        pattern matching (Maybe/Either, aliases and _function_ examples)
-        ! functors (arrays, binary trees, Maybe), applicatives and monads
-        ! monadic I/O
-     !* Liquid Haskell, logic programming & QuickCheck
+13. Parsing II [2.5h]
+  * Lazy JSON parser (continued)
+  * Aeson
+  * Parsing untyped lambda-calculus
+  * Transforming ASTs
+  * Code generation and optimization  
 
-    6.3 Elm
-      * built-into features: data flow, messages, state management
-     <* DOM DSL
-      * time-traveling debugging
-
-
-http://stevelosh.com/blog/2013/03/list-out-of-lambda
-Light Table & Clojure demo
-...
+14. Correctness verification [4h]
+  * Generative testing: QuickCheck, jsverify
+  * Theorem proving, Liquid Haskell 
+  * Dependent types
+  * Prove correctness: example app
 
