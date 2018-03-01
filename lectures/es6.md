@@ -22,7 +22,9 @@ https://www.youtube.com/watch?v=tus1W_1Tx8U&index=14&list=PLe--kalBDwjhni4LpATaJ
 - Block-level scope
 - Const
 - Arrow function
+- ESLint & JSCS & Style guilde
 
 #### Useful links
-https://hacks.mozilla.org/category/es6-in-depth/
-http://exploringjs.com/es6/ch_arrow-functions.html
+- https://hacks.mozilla.org/category/es6-in-depth/
+- http://exploringjs.com/es6/ch_arrow-functions.html
+- http://www.smashingmagazine.com/2015/09/eslint-the-next-generation-javascript-linter/
