@@ -1,7 +1,11 @@
-### Запись лекции - https://youtu.be/fqZVq-I2Zt4
 
 **The Rolling Scopes School** - это бесплатные курсы по JavaScript/Front-end, проводимые под 
 эгидой сообщества разработчиков The Rolling Scopes.
+
+### Записи вводного занятия
+  - 2018Q1 https://youtu.be/fqZVq-I2Zt4
+  - 2017Q3 https://youtu.be/ch5vXi45ttg
+  - Видео лучше смотреть на скорости 1.25 или 1.5
 
 Основные пункты:  
   - К обучению приглашаются все желающие. Что необходимо знать до начала курсов, можно прочитать по [ссылке](https://github.com/rolling-scopes-school/docs/blob/master/students.md)
@@ -39,7 +43,6 @@
 Во время ожидания проекта/интервью вы продолжаете обучение и выполнение заданий.
 
 ### Конспект занятия
-0. Посмотреть предыдушее вводное занятие - https://www.youtube.com/watch?v=ch5vXi45ttg  (Лучше смотреть на скорости 1.25 или 1.5)
 1. Group Chat
     * https://gitter.im/rolling-scopes-school/padawans (Общий чат)
     * https://gitter.im/rolling-scopes-school/questions (Обсуждение заданий)
