@@ -34,6 +34,7 @@
 32. [Node.js](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/nodejs.md)
 33. [Angular](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/angular.md)
 34. [Functional Programming](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/fp.md)
+35. Test-driven development
 
 ### Предыдущая версия списка лекций
 https://github.com/rolling-scopes/front-end-course/wiki/Course-Curriculum-2.0
