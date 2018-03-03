@@ -34,10 +34,11 @@
 32. [Node.js](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/nodejs.md)
 33. [Angular](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/angular.md)
 34. [Functional Programming](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/fp.md)
-35. Test-driven development
+35. [Test-driven development](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/tdd.md)
 36. [Design Patterns](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/design-patterns.md)
 37. [Maintainable CSS](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/maintainable-css.md)
 38. [Accessibility](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/a11y.md)
 39. [Software Development Process](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/software-development-process.md)
 40. [How browser works](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/how-browser-works.md)
 41. [HTTP](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/http.md)
+42. 
