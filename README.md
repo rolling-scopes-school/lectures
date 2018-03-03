@@ -36,3 +36,4 @@
 34. [Functional Programming](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/fp.md)
 35. Test-driven development
 36. [Design Patterns](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/design-patterns.md)
+37. [Maintainable CSS](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/maintainable-css.md)
