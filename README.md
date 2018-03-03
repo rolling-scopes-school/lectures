@@ -38,3 +38,4 @@
 36. [Design Patterns](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/design-patterns.md)
 37. [Maintainable CSS](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/maintainable-css.md)
 38. [Accessibility](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/a11y.md)
+39. [Software Development Process](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/software-development-process.md)
