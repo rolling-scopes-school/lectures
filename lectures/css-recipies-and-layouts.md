@@ -103,3 +103,8 @@
 - Sliding door technique
 - How to use CSS3 for buttons
 - How to create different page layouts
+
+#### Useful links
+- https://www.codementor.io/css/tutorial/4-different-layout-techniques-create-single-page
+- https://helpx.adobe.com/dreamweaver/how-to/work-with-html-layout.html
+- http://positionly.com/blog/inbound-marketing/website-usability
