@@ -32,6 +32,15 @@ __Part II__
  - Immediately-Invoked Function Expression
  - Chaining
  - Singleton, Decorator, memoization ...
+ 
+### Useful links
+
+1. JSCore - http://dmitrysoshnikov.com/ecmascript/ru-javascript-the-core/
+2. How the V8 engine works?
+  *  https://www.youtube.com/watch?v=VhpdsjBUS3g
+  *  http://www.youtube.com/watch?v=UJPdhx5zTaw
+3. Memory Management Masterclass with Addy Osmani
+  *  https://www.youtube.com/watch?v=LaxbdIyBkL0
 
 ### Practise
 
