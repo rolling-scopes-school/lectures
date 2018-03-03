@@ -40,3 +40,4 @@
 38. [Accessibility](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/a11y.md)
 39. [Software Development Process](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/software-development-process.md)
 40. [How browser works](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/how-browser-works.md)
+41. [HTTP](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/http.md)
