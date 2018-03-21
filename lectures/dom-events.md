@@ -1,5 +1,5 @@
 ### Video
-- https://youtu.be/NLfwFeckOnk
+- https://youtu.be/vcXehC9JgGU
 
 ### Slides
 - http://rolling-scopes.github.io/slides/school/dom-events/#/
