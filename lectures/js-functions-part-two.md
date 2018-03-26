@@ -3,7 +3,7 @@
 - [Слайды за 2017](http://slides.com/anna_protasevich/functions#/)
 
 ### Video
-- [Запись за 2018](https://www.youtube.com/watch?v=c_rHAYNBotQ)
+- [Запись за 2018](https://www.youtube.com/watch?v=h5o_tgEMKxY)
 - [Запись за 2017](https://youtu.be/kbhiRFwFZbU)
 
 ### Content
