@@ -1,8 +1,10 @@
 ### Slides:
-- http://slides.com/anna_protasevich/functions#/
+- [Слайды за 2018](https://kirilknysh.github.io/js-functions-talk/#/)
+- [Слайды 2017](http://slides.com/anna_protasevich/functions#/)
 
 ### Video
-- https://youtu.be/kbhiRFwFZbU
+- [Запись за 2018](https://www.youtube.com/watch?v=c_rHAYNBotQ)
+- [Запись за 2017](https://youtu.be/kbhiRFwFZbU)
 
 ### Content
 - Execution context
