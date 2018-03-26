@@ -1,6 +1,6 @@
 ### Slides:
 - [Слайды за 2018](https://kirilknysh.github.io/js-functions-talk/#/)
-- [Слайды 2017](http://slides.com/anna_protasevich/functions#/)
+- [Слайды за 2017](http://slides.com/anna_protasevich/functions#/)
 
 ### Video
 - [Запись за 2018](https://www.youtube.com/watch?v=c_rHAYNBotQ)
