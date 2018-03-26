@@ -1,8 +1,11 @@
 ### Slides:
-http://dzmitry-varabei.github.io/front-end-course/lecture-3-recap-scope/scope.pptx
+- [Слайды за 2018](https://kirilknysh.github.io/js-scope-talk/#/)
+- [Слайды за 2017](http://dzmitry-varabei.github.io/front-end-course/lecture-3-recap-scope/scope.pptx)
 
 ### Video:
-https://youtu.be/vgg0ZpG4VYc
+- [Видео за 2018](https://www.youtube.com/watch?v=c_rHAYNBotQ)
+- [Видео за 2017](https://youtu.be/vgg0ZpG4VYc)
+
 
 ### Content:
 - Scopes defenition
