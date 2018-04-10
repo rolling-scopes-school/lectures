@@ -1,6 +1,6 @@
 Introduction to FP
 
-1. FP Overview [2h+]
+1. FP Overview [2h+] [Зарегистрироваться на вебинар 17-APR-2018 20:00](https://attendee.gotowebinar.com/register/7634721060769420546)
   * Evolution of imperative programming
   * Lisp interpreter
   * Turing machine, Backus speech
@@ -14,7 +14,7 @@ Introduction to FP
   * FP today: landscape, languages, Computer Science, communities, the Rift between scientific and commercial programming
   * Correctness proof and code verification
 
-2. Lambda Calculus [1.5h]
+2. Lambda Calculus [1.5h] [Зарегистрироваться на вебинар 22-APR-2018 11:00](https://attendee.gotowebinar.com/register/1416904740504341762)
   * Application, abstraction, terms
   * Reduction/conversion
   * SKI, iota
