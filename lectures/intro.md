@@ -90,7 +90,7 @@
 - http://www.codewars.com/dashboard (тут можно тренироваться)
 - http://learn.javascript.ru/ (хорошая книжка на русском языке)
 
-Пройти следующие бесплатные онлайн курсы. Крайне рекомендуется - http://dzmitry-varabei.github.io/online-education/#/
+Пройти следующие бесплатные онлайн курсы. Крайне рекомендуется:
 - https://www.udacity.com/course/cs101 (Выбираем кнопку Access course materials (а не start free trial) на странице курса)
 - https://www.udacity.com/course/intro-to-java-programming--cs046
 - https://www.coursera.org/course/algs4partI
