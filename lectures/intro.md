@@ -90,9 +90,12 @@
 - http://www.codewars.com/dashboard (тут можно тренироваться)
 - http://learn.javascript.ru/ (хорошая книжка на русском языке)
 
-Пройти следующие бесплатные онлайн курсы. Крайне рекомендуется:
-- https://www.udacity.com/course/cs101 (Выбираем кнопку Access course materials (а не start free trial) на странице курса)
-- https://www.coursera.org/course/algs4partI
+Пройти следующие бесплатные онлайн курсы:
+- Основы
+   - https://www.edx.org/cs50 или его перевод на русском языке https://javarush.ru/quests/QUEST_HARVARD_CS50
+   - https://www.udacity.com/course/cs101 (Выбираем кнопку Access course materials (а не start free trial) на странице курса)
+- Базовые алгоритмы
+   - https://www.coursera.org/course/algs4partI
 ```
 ### Оставить отзыв
 * https://docs.google.com/forms/d/1F4NeS0oBq-CY805aqiPVp6CIrl4_nIYJ7Z_vUcMOFrQ/viewform
