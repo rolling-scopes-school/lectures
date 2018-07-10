@@ -42,3 +42,4 @@
 40. [How browser works](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/how-browser-works.md)
 41. [HTTP](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/http.md)
 42. [UX](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/ux.md)
+43. [Refactoring](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/refactoring.md)
