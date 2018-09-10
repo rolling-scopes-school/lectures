@@ -77,10 +77,12 @@
   - Видео лучше смотреть на скорости 1.25 или 1.5
 
 ### Конспект вводного занятия
-1. Group Chat
-    * https://gitter.im/rolling-scopes-school/padawans (Общий чат)
-    * https://gitter.im/rolling-scopes-school/questions (Обсуждение заданий)
-    * https://gitter.im/rolling-scopes-school/announcements (Важные анонсы //сюда пишут только тренеры и менторы)
+1. Каналы связи. 
+    - Для общения мы используем Gitter chat c тремя основными каналами:
+      * Анонсы. Все объявления, а также любые важные комментарии по учебному процессу, переносу занятий, новым заданиям мы пишем сюда - https://gitter.im/rolling-scopes-school/announcements Пожалуйста, не пишите в этот чат сами. Любые вопросы по анонсам, пишите в чат - Вопросы.
+      * Вопросы. Любые вопросы пишите сюда - https://gitter.im/rolling-scopes-school/questions
+      * Padawans aka Общий чат -  https://gitter.im/rolling-scopes-school/padawans 
+    - Анонимный фидбек, жалобы или восторженные отзывы отправляйте, пожалуйста, сюда - https://docs.google.com/forms/d/1F4NeS0oBq-CY805aqiPVp6CIrl4_nIYJ7Z_vUcMOFrQ/viewform 
 2. The Rolling Scopes Overview
     * https://www.youtube.com/user/therollingscopes
     * https://www.facebook.com/groups/TheRollingScopes/
@@ -141,8 +143,3 @@
       - Успешное прохождение собеседования
    2. По рекомендации Ментора, если на проекте Ментора есть открытая вакансия, а у вас - необходимые навыки.
    3. По рекомендации проверяющих основных заданий (финальные таски второго и третьего этапа, презентации и т.д.) 
-
-
-
-### Оставить отзыв
-* https://docs.google.com/forms/d/1F4NeS0oBq-CY805aqiPVp6CIrl4_nIYJ7Z_vUcMOFrQ/viewform
