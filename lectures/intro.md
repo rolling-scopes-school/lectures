@@ -5,6 +5,7 @@
 Подробное описание школы тут - https://medium.com/@dzmitry.varabei/draft-%D0%BA%D0%B0%D0%BA-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B0-the-rolling-scopes-school-32298109e3a3
   
 ### Записи вводного занятия
+  - 2018Q3 Будет тут
   - 2018Q1 https://youtu.be/fqZVq-I2Zt4
   - 2017Q3 https://youtu.be/ch5vXi45ttg
   - Видео лучше смотреть на скорости 1.25 или 1.5
@@ -36,6 +37,9 @@
 7. [Roles: Student / Trainer / Mentor](https://docs.google.com/document/d/1LdruvgRWuLEkCald2lrNlgIdDCzImYa3fe6IxVblBnI/edit)
 8. RS Padawans - https://epa.ms/padawans-2018
 9. [Stage#1 Tasks](https://github.com/rolling-scopes-school/tasks)   
+10. Отдельно будет анонсировано:
+   - Оффлайн стрим в первом этапе
+   - Short track во втором
 
 ### FAQ
 1. **Распределение** 
