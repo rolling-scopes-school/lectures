@@ -1,16 +1,25 @@
 
+# Что такое RSSchool?
 **The Rolling Scopes School** - это бесплатные курсы по JavaScript/Front-end, проводимые под 
 эгидой сообщества разработчиков The Rolling Scopes.
 
 Подробное описание школы тут - https://medium.com/@dzmitry.varabei/draft-%D0%BA%D0%B0%D0%BA-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B0-the-rolling-scopes-school-32298109e3a3
   
-### Записи вводного занятия
-  - 2018Q3 Будет тут
-  - 2018Q1 https://youtu.be/fqZVq-I2Zt4
-  - 2017Q3 https://youtu.be/ch5vXi45ttg
-  - Видео лучше смотреть на скорости 1.25 или 1.5
+# Где искать видеозаписи лекций?
+   - Записи вебинаров и оффлайн лекций можно найти на нашем канале - https://www.youtube.com/user/therollingscopes
+   - Большинство лекции сгруппировано по плейлистам - https://www.youtube.com/user/therollingscopes/playlists
+   - Записи вводного занятия прошлых наборов: 
+       - 2018Q3 https://youtu.be/Gp0P4LP9QOg 
+       - 2018Q1 https://youtu.be/fqZVq-I2Zt4
+       - 2017Q3 https://youtu.be/ch5vXi45ttg
+  
+  Видео лучше смотреть на скорости 1.25 или 1.5
+  
+# Где смотреть расписание занятий?
+Самая актуальная версия находится тут - 
+https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1ymelvE/edit#gid=0
 
-### Конспект вводного занятия
+# Конспект вводного занятия
 1. Каналы связи. 
     - Для общения мы используем Gitter chat c тремя основными каналами:
       * Анонсы. Все объявления, а также любые важные комментарии по учебному процессу, переносу занятий, новым заданиям мы пишем сюда - https://gitter.im/rolling-scopes-school/announcements Пожалуйста, не пишите в этот чат сами. Любые вопросы по анонсам, пишите в чат - Вопросы.
