@@ -74,7 +74,7 @@ Git allows a developer to copy a remote subversion repository to a local instanc
 |`git clone git@github.com:r/r.git`| Get a copy of the central storage facility (the repository)   |
 |`git branch first-task`|Create a _local_ branch called "first-task" |
 |`git checkout first-task`  |Swith to the first-task branch |
-|`git checkout -b first-task`  |Create and swith to the first-task branch |
+|`git checkout -b first-task`  |Create and switсh to the first-task branch |
 |`git add index.js`  |Add `index.js` contents to the index.|
 |`git add .`  |Add all content from the current folder to the index|
 |`git commit index.js`  |Add `index.js` contents to the index|
