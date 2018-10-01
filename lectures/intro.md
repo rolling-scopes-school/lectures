@@ -40,33 +40,11 @@
    - https://www.coursera.org/course/algs4partI
 ```
 
-# Конспект вводного занятия
-1. Каналы связи. 
-    - Для общения мы используем Gitter chat c тремя основными каналами:
-      * Анонсы. Все объявления, а также любые важные комментарии по учебному процессу, переносу занятий, новым заданиям мы пишем сюда - https://gitter.im/rolling-scopes-school/announcements Пожалуйста, не пишите в этот чат сами. Любые вопросы по анонсам, пишите в чат - Вопросы.
-      * Вопросы. Любые вопросы пишите сюда - https://gitter.im/rolling-scopes-school/questions
-      * Padawans aka Общий чат -  https://gitter.im/rolling-scopes-school/padawans 
-    - Анонимный фидбек, жалобы или восторженные отзывы отправляйте, пожалуйста, сюда - https://docs.google.com/forms/d/1F4NeS0oBq-CY805aqiPVp6CIrl4_nIYJ7Z_vUcMOFrQ/viewform 
-2. The Rolling Scopes Overview
-    * https://www.youtube.com/user/therollingscopes
-    * https://www.facebook.com/groups/TheRollingScopes/
-    * https://vk.com/therollingscopes
-    * #RSConf2018 https://tech.onliner.by/2018/02/10/the-rolling-scopes
-3. The Rolling Scopes School Overview
-    * https://github.com/rolling-scopes-school/lectures
-    * https://github.com/rolling-scopes-school/tasks
-    * https://www.youtube.com/watch?list=PLe--kalBDwjhni4LpATaJscPwZUudxVHS&v=ch5vXi45ttg
-    * Code-of-conduct
-4. EPAM
-     * 25 years of growth
-     * Telescope
-     * Benefits Navigator
-     * Outsourcing vs PDS
-5. [Curriculum](https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1ymelvE/edit#gid=0)
-6. [Roles: Student / Trainer / Mentor](https://docs.google.com/document/d/1LdruvgRWuLEkCald2lrNlgIdDCzImYa3fe6IxVblBnI/edit)
-7. RS Padawans - https://epa.ms/padawans-2018
-8. [Stage#1 Tasks](https://github.com/rolling-scopes-school/tasks)  
+## Где можно посмотреть учебную программу курсов?
+https://github.com/rolling-scopes-school/lectures
 
+## Где можно посмотреть список заданий? 
+https://github.com/rolling-scopes-school/tasks
 
 # FAQ по stage#1
 
@@ -175,6 +153,33 @@ Offline Stream - это набор очных лекций. На которые 
       - Успешное прохождение собеседования
    2. По рекомендации Ментора, если на проекте Ментора есть открытая вакансия, а у вас - необходимые навыки.
    3. По рекомендации проверяющих основных заданий (финальные таски второго и третьего этапа, презентации и т.д.) 
+   
+# Конспект вводного занятия
+1. Каналы связи. 
+    - Для общения мы используем Gitter chat c тремя основными каналами:
+      * Анонсы. Все объявления, а также любые важные комментарии по учебному процессу, переносу занятий, новым заданиям мы пишем сюда - https://gitter.im/rolling-scopes-school/announcements Пожалуйста, не пишите в этот чат сами. Любые вопросы по анонсам, пишите в чат - Вопросы.
+      * Вопросы. Любые вопросы пишите сюда - https://gitter.im/rolling-scopes-school/questions
+      * Padawans aka Общий чат -  https://gitter.im/rolling-scopes-school/padawans 
+    - Анонимный фидбек, жалобы или восторженные отзывы отправляйте, пожалуйста, сюда - https://docs.google.com/forms/d/1F4NeS0oBq-CY805aqiPVp6CIrl4_nIYJ7Z_vUcMOFrQ/viewform 
+2. The Rolling Scopes Overview
+    * https://www.youtube.com/user/therollingscopes
+    * https://www.facebook.com/groups/TheRollingScopes/
+    * https://vk.com/therollingscopes
+    * #RSConf2018 https://tech.onliner.by/2018/02/10/the-rolling-scopes
+3. The Rolling Scopes School Overview
+    * https://github.com/rolling-scopes-school/lectures
+    * https://github.com/rolling-scopes-school/tasks
+    * https://www.youtube.com/watch?list=PLe--kalBDwjhni4LpATaJscPwZUudxVHS&v=ch5vXi45ttg
+    * Code-of-conduct
+4. EPAM
+     * 25 years of growth
+     * Telescope
+     * Benefits Navigator
+     * Outsourcing vs PDS
+5. [Curriculum](https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1ymelvE/edit#gid=0)
+6. [Roles: Student / Trainer / Mentor](https://docs.google.com/document/d/1LdruvgRWuLEkCald2lrNlgIdDCzImYa3fe6IxVblBnI/edit)
+7. RS Padawans - https://epa.ms/padawans-2018
+8. [Stage#1 Tasks](https://github.com/rolling-scopes-school/tasks)  
 
  
 
