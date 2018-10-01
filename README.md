@@ -1,45 +1,73 @@
-#  List of Lectures
+#  Course Curriculum
 
-1. [Course Overview](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/intro.md) 
-2. [IDE Battle](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/IDE-battle.md)
-3. [GIT Basics](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/git.md) 
-4. [HTML & CSS Basics](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/html-css-basics.md)
-5. [JS Intro](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/js-intro.md)
-6. [JS Data Types](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/js-data-types.md)
-7. [Basic Algorithms](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/basic-algorithms.md)
-8. [JS Scope](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/js-scope.md)
-9. [JS Functions. Part I](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/js-functions.md)
-10. [Position. Floats. Semantics. CSS3](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/position-floats-semantics-css3.md)
-11. [Web typography](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/web-typography.md)
-12. [Stage #1 Retrospective](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/retrospective-stage-one.md)
-13. [Photoshop basics](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/photoshop-basics.md)
-14. [ES6. Let, Const and arrow functions. Airbnb JavaScript Style Guide](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/es6.md)
-15. [JS Functions. Part II](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/js-functions-part-two.md) 
-16. [Array.prototype.*](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/js-arrays.md)
-17. [Inheritance in JavaScript. ES6 Classes.](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/inheritance-in-js-and-es6-classes.md) 
-18. [DOM](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/dom.md)
-19. [Float & Positioning. Error Analysis](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/float-positioning-error-analysis.md)
-20. [Responsive Web Design. Flexbox. CSS Grid Layout. CSS Recipes & Layouts](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/css-recipies-and-layouts.md)
-21. [DOM Events](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/dom-events.md)
-22. [Event Loop. Animations](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/event-loop-and-animations.md)
-23. [CSS Preprocessors. SASS](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/css-preprocessors.md)
-24. [Game Dev. Promises. Callbacks](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/promises-game-dev.md)
-25. [JS Modules](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/js-modules.md)
-26. [Webpack. Assets management. Project Structure](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/webpack.md)
-27. [Lodash](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/lodash.md)
-28. [Match Match game. Error Analysis](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/match-match-game-error-analysis.md)
-29. [WebSocket Challenge](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/websocket-challenge.md)
-30. [CSS Frameworks](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/css-frameworks.md)
-31. [React/Redux](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/react-redux.md)
-32. [Node.js](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/nodejs.md)
-33. [Angular](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/angular.md)
-34. [Functional Programming](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/fp.md)
-35. [Test-driven development](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/tdd.md)
-36. [Design Patterns](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/design-patterns.md)
-37. [Maintainable CSS](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/maintainable-css.md)
-38. [Accessibility](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/a11y.md)
-39. [Software Development Process](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/software-development-process.md)
-40. [How browser works](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/how-browser-works.md)
-41. [HTTP](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/http.md)
-42. [UX](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/ux.md)
-43. [Refactoring](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/refactoring.md)
+[Вводное занятие / Course Overview](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/intro.md) 
+
+## Stage #1
+  - Git
+     - http://try.github.io/
+     - [GIT Basics](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/git.md) 
+  - Terminal Usage
+     - [Basic Windows](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands)
+     - [Basic Mac](https://www.imore.com/how-use-terminal-mac-when-you-have-no-idea-where-start)
+ - [IDE](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/IDE-battle.md)
+ - [Data Structures & Alogrithms](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/basic-algorithms.md)
+ - [HTML & CSS Basics](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/html-css-basics.md)
+ - JS Basics
+   - [JS Intro](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/js-intro.md)
+   - [JS Data Types](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/js-data-types.md)
+ - [Stage #1 Retrospective](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/retrospective-stage-one.md)
+ 
+## Stage #2
+- JavaScript 
+   - [JS Scope](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/js-scope.md)
+   - [JS Functions. Part I](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/js-functions.md)
+   - [JS Functions. Part II](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/js-functions-part-two.md)
+   - [ES6. Let, Const and arrow functions. Airbnb JavaScript Style Guide](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/es6.md)
+   - [Array.prototype.*](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/js-arrays.md)
+   - [Inheritance in JavaScript. ES6 Classes.](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/inheritance-in-js-and-es6-classes.md) 
+   - [Game Dev. Promises. Callbacks](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/promises-game-dev.md)
+   - [JS Modules](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/js-modules.md)
+   
+- HTML/CSS
+   - [Photoshop basics](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/photoshop-basics.md)
+   - [Position. Floats. Semantics. CSS3](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/position-floats-semantics-css3.md)
+   - [Float & Positioning. Error Analysis](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/float-positioning-error-analysis.md)
+   - [Web typography](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/web-typography.md)
+   - [Responsive Web Design. Flexbox. CSS Grid Layout. CSS Recipes & Layouts](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/css-recipies-and-layouts.md)
+   - [CSS Preprocessors. SASS](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/css-preprocessors.md)
+   - [CSS Frameworks](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/css-frameworks.md)
+
+- DOM 
+   - [DOM](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/dom.md)
+   - [DOM Events](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/dom-events.md)
+   - [Event Loop. Animations](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/event-loop-and-animations.md)
+
+- Development environment 
+   - NPM, NPM scripts
+   - [Webpack. Assets management. Project Structure](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/webpack.md)
+  
+- [HTTP/HTTPS](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/http.md)
+- [Functional Programming](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/fp.md)
+- [Lodash](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/lodash.md)
+- [How browser works](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/how-browser-works.md)
+
+
+- Other
+   - [Match Match game. Error Analysis](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/match-match-game-error-analysis.md)
+   - [WebSocket Challenge](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/websocket-challenge.md)
+
+
+## Stage #3
+- [React/Redux](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/react-redux.md)
+- [Node.js](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/nodejs.md)
+- [Angular](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/angular.md)
+- [Test-driven development](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/tdd.md)
+- [Design Patterns](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/design-patterns.md)
+- [Maintainable CSS](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/maintainable-css.md)
+- [Refactoring](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/refactoring.md)
+- TypeScript
+
+## Stage #4
+- [Accessibility](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/a11y.md)
+- [Software Development Process](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/software-development-process.md)
+- [UX](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/ux.md)
