@@ -71,3 +71,4 @@
 - [Accessibility](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/a11y.md)
 - [Software Development Process](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/software-development-process.md)
 - [UX](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/ux.md)
+- [AngularJS](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/angularjs.md)
