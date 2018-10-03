@@ -1,6 +1,6 @@
 
 ### Video
-- https://youtu.be/n0j-TFeCVgk
+- https://youtu.be/RspM9-i2M3w
 
 ### Links:
 https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/prototype
