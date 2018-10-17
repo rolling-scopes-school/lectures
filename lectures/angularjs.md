@@ -10,6 +10,8 @@
 ## Slides
 * [AngularJS Intro](https://slides.com/dzianisreznik/deck-6)
 * [AngularJS Filters, Directives, Components](https://slides.com/dzianisreznik/deck-4d4335ab-a6b1-4043-a26c-ca2170d4599e#/)
+* [AngularJS Services](https://slides.com/dzianisreznik/deck-7#/)
+* [AngularJS Forms, ngRedux](https://slides.com/dzianisreznik/deck-8#/)
 ## Useful links
 * [AngularJS Dev Guide](https://docs.angularjs.org/guide)
 * [AngularJS Styleguide](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md)
@@ -19,6 +21,10 @@
 * [Components/Directives good practice](https://gist.github.com/toddmotto/5b4de6c777d3e446e6410fdadb824522)
 * [Bindings in AngularJS](http://blog.krawaller.se/posts/dissecting-bindings-in-angularjs/)
 * [Understanding service types](http://angular-tips.com/blog/2013/08/understanding-service-types/)
+* [$http vs $resource](http://ngninja.com/posts/angularjs-http-vs-resource)
+* [Validation and error handling](https://steelkiwi.com/blog/validation-error-handling-angularjs-applicatios/)
+* [ngRedux](https://github.com/angular-redux/ng-redux)
+* [Why using Redux?](https://tech.webinterpret.com/why-we-decided-to-use-redux-in-our-angularjs-application/)
 ## Tasks
 ### Task 1
 * Initialize AngularJS project and set Webpack for it.
