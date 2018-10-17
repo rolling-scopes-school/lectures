@@ -25,6 +25,7 @@
 * [Validation and error handling](https://steelkiwi.com/blog/validation-error-handling-angularjs-applicatios/)
 * [ngRedux](https://github.com/angular-redux/ng-redux)
 * [Why using Redux?](https://tech.webinterpret.com/why-we-decided-to-use-redux-in-our-angularjs-application/)
+* [Testing](https://quickleft.com/blog/angularjs-unit-testing-for-real-though/)
 ## Tasks
 Final result is the AngularJS application with 3 pages:
 1) Items list
