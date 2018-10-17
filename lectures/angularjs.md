@@ -45,5 +45,6 @@ P.S. Styles for your app are optional.
 ### Task 4
 * Create page for adding a new item.
 * Create simple form with validation.
+* Create at least 1 custom validation directive.
 * Store form's data in redux store.
 * Handle submit event with function calling POST request from your service if the form is valid.
