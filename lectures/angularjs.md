@@ -26,9 +26,23 @@
 * [ngRedux](https://github.com/angular-redux/ng-redux)
 * [Why using Redux?](https://tech.webinterpret.com/why-we-decided-to-use-redux-in-our-angularjs-application/)
 ## Tasks
+Final result is the AngularJS application with 3 pages:
+1) Items list
+2) Adding new item page with form
+3) Page for each item
+P.S. Styles for your app are optional.
 ### Task 1
 * Initialize AngularJS project and set Webpack for it.
 * Create one page application using controllers, binding and built-in directives and filters.
 * The functionality of the project may be senseless, just try to use controllers, binding and built-in directives and filters.
 ### Task 2
-* [Task 2](https://docs.google.com/document/d/1MqHzTH9ro9R8KRnRK1_x4AFexXDdB1UrmUtEt_Uy3ns/edit?usp=sharing)
+* Create page with items list bult on components. Use ng-repeat and filter to search items.
+* [More details](https://docs.google.com/document/d/1MqHzTH9ro9R8KRnRK1_x4AFexXDdB1UrmUtEt_Uy3ns/edit?usp=sharing)
+### Task 3
+* Create service, handling requests and storing data.
+* Implement component routing. Create page template for item in list and implement the ability to go to the page of each item (/items/:id).
+### Task 4
+* Create page for adding a new item.
+* Create simple form with validation.
+* Store form's data in redux store.
+* Handle submit event with function calling POST request from your service if the form is valid.
