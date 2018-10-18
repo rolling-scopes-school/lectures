@@ -26,6 +26,7 @@
 * [ngRedux](https://github.com/angular-redux/ng-redux)
 * [Why using Redux?](https://tech.webinterpret.com/why-we-decided-to-use-redux-in-our-angularjs-application/)
 * [Testing](https://quickleft.com/blog/angularjs-unit-testing-for-real-though/)
+* [Form & Redux example](https://github.com/dzianisreznik/ng-form-redux)
 ## Tasks
 Final result is the AngularJS application with 3 pages:
 1) Items list
@@ -48,3 +49,4 @@ P.S. Styles for your app are optional.
 * Create at least 1 custom validation directive.
 * Store form's data in redux store.
 * Handle submit event with function calling POST request from your service if the form is valid.
+* [Form & Redux example](https://github.com/dzianisreznik/ng-form-redux)
