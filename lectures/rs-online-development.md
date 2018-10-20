@@ -6,7 +6,15 @@
 
 Ведущие: Дима Воробей и Андрей Лесницкий
 
-Темы первого выпуска: git, interactive rebase, commit, pull request, commits templates, pull request templates, pre commit hooks  
+# 01 Git, commit & pull request
+Темы: git, interactive rebase, commit, pull request, commits templates, pull request templates
+
+
+# 02 
+
+
+# Next
+pre commit hooks  
 
 Регистрация: https://attendee.gotowebinar.com/register/4299340447811850243
 
