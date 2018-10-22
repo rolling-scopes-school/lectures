@@ -1,21 +1,19 @@
-## The Rolling Scopes online development
-
-Сегодня мы стартуем цикл вебинаров - The Rolling Scopes online development.  
+# Цикл вебинаров "The Rolling Scopes App development"
 
 В данной серии вебинаров планируется вести разработку RSSchool App попутно разбирая и обсуждая различные темы.  
-
 Ведущие: Дима Воробей и Андрей Лесницкий
 
-# 01 Git, commit & pull request
-Темы: git, interactive rebase, commit, pull request, commits templates, pull request templates
+## Выпуск #1 Git, commit & pull request
+### Темы: git, git aliases, interactive rebase, commit, pull request, commits templates, pull request templates
+Запись - https://youtu.be/pzRiqBZh-O4
 
+### Выпуск #2 NPM & Node.js basics, package.json best practices
+Регистрация - https://attendee.gototraining.com/r/7880742289571378434
 
-# 02 
+# Backlog
+- pre commit hooks
+- merge conflicts
+- PR review
 
-
-# Next
-pre commit hooks  
-
-Регистрация: https://attendee.gotowebinar.com/register/4299340447811850243
-
-Участие по желанию :)
+### Обсуждение и вопросы ведутся в Slack
+https://join.slack.com/t/rsschool-app/shared_invite/enQtNDU4Mjc5MDQyODUzLTEzMWIzMDNkNGQwZTBiYzBmYThjOTY5NWIzNGMxOTIwN2RhZDFlYzNkMDU1MDM4OGE3OWY2ZWIxMTM1NTZhMDE
