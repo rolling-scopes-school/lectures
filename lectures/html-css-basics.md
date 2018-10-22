@@ -4,7 +4,7 @@
 
 ### Slides 
 
-https://slides.com/ra_levis/html_css_basics
+https://slides.com/sergeyshalyapin/html_css_basics
 
 ### Video
 
