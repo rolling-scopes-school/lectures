@@ -8,7 +8,7 @@
 Запись - https://youtu.be/pzRiqBZh-O4
 
 ### Выпуск #2 NPM & Node.js basics, package.json best practices
-Регистрация - https://attendee.gototraining.com/r/7880742289571378434
+Запись - https://youtu.be/jX9fJwHq6VU
 
 # Backlog
 - pre commit hooks
