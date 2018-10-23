@@ -3,11 +3,12 @@
 В данной серии вебинаров планируется вести разработку RSSchool App попутно разбирая и обсуждая различные темы.  
 Ведущие: Дима Воробей и Андрей Лесницкий
 
-## Выпуск #1 Git, commit & pull request
-### Темы: git, git aliases, interactive rebase, commit, pull request, commits templates, pull request templates
+# Выпуски
+### #1 Git, commit & pull request
+##### Темы: git, git aliases, interactive rebase, commit, pull request, commits templates, pull request templates
 Запись - https://youtu.be/pzRiqBZh-O4
 
-### Выпуск #2 NPM & Node.js basics, package.json best practices
+### #2 NPM & Node.js basics, package.json best practices
 Запись - https://youtu.be/jX9fJwHq6VU
 
 # Backlog
