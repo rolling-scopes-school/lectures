@@ -33,8 +33,20 @@
 Запись - https://youtu.be/jX9fJwHq6VU
 
 ### #3 Типовая стуректура проекта, package.json best practices
-Регистрация - https://attendee.gotowebinar.com/register/4299340447811850243
+Темы обсуждения:
+- Semantic Versioning https://semver.org/
+- https://www.npmjs.com/
+- yarn vs npm
+- package.json structure
+- https://help.github.com/articles/licensing-a-repository/
+- npm shrinkwrap 
+- npm scripts 
+- .editorconfig 
+- yeoman / create react app
+- basics of unit testing
+- eslint 
 
+Регистрация - https://attendee.gotowebinar.com/register/4299340447811850243
 
 # Backlog
 - pre commit hooks
