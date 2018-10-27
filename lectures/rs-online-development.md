@@ -45,8 +45,9 @@
 - yeoman / create react app
 - basics of unit testing
 - eslint 
+ 
+Запись - https://www.youtube.com/watch?v=4psWjsQOSAQ
 
-Регистрация - https://attendee.gotowebinar.com/register/4299340447811850243
 
 # Backlog
 - pre commit hooks
