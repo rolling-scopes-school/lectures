@@ -49,8 +49,7 @@
 Запись - https://www.youtube.com/watch?v=4psWjsQOSAQ
 
 ### #4 REST API, http://www.passportjs.org/, MongoDB
-
-Регистрация - https://attendee.gotowebinar.com/register/2474781166245747969
+Запись - https://www.youtube.com/watch?v=1EmtUW47o2g
 
 # Backlog
 - pre commit hooks
