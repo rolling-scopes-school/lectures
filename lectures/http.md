@@ -1,7 +1,11 @@
-###Trainer: Aliaksandr Karlovich
+###Trainer: Uladzimir Halushka
 
 ###Slides
 http://rolling-scopes.github.io/slides/school/HTTP
+
+###Video
+https://youtu.be/x3ByCM78ETw (Part 1)
+https://youtu.be/iTi1bXSJre0 (Part 2)
 
 ###Content
 1. History and basic structure of WWW
