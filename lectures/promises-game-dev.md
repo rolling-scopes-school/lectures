@@ -1,5 +1,6 @@
 ### Video
-- https://youtu.be/OyQToid6w8E
+- https://youtu.be/OyQToid6w8E (2017)
+- https://www.youtube.com/watch?v=0fFg3c4C9tA (2018)
 
 ### Slides
 - http://andrei-yanovich.github.io/ajax-talk/#/
