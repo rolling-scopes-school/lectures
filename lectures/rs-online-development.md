@@ -3,6 +3,12 @@
 В данной серии вебинаров планируется вести разработку RSSchool App попутно разбирая и обсуждая различные темы.  
 Ведущие: Дима Воробей и Андрей Лесницкий
 
+# Регистрация на ближайшие вебинары
+- 13 Ноября 19:30 https://attendee.gotowebinar.com/rt/5018964211745639937
+- 16 Ноября 20:00 https://attendee.gotowebinar.com/rt/5018964211745639937
+- 19 Ноября 19:30 https://attendee.gotowebinar.com/rt/5018964211745639937
+- 21 Ноября 19:30 https://attendee.gototraining.com/r/4018974878959860738
+
 # Выпуски
 ### #1 Git, commit & pull request
 Темы обсуждения: 
@@ -48,10 +54,25 @@
  
 Запись - https://www.youtube.com/watch?v=4psWjsQOSAQ
 
-### #4 REST API, http://www.passportjs.org/, MongoDB
+### #4 REST API 
 Запись - https://www.youtube.com/watch?v=1EmtUW47o2g
 
+- https://www.getpostman.com/
+- mz-modules
+
+### #5 REST API
+Запись - https://youtu.be/2XBnzkugvJI
+
+- генерация нового express проекта
+- структура express проекта
+- express middleware
+- проблемы с обработкой ошибок 
+- unit tests
+- proxyquire
+
+
 # Backlog
+http://www.passportjs.org/, MongoDB
 - pre commit hooks
 - merge conflicts
 - PR review
