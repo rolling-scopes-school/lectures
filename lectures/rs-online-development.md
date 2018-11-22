@@ -3,11 +3,8 @@
 В данной серии вебинаров планируется вести разработку RSSchool App попутно разбирая и обсуждая различные темы.  
 Ведущие: Дима Воробей и Андрей Лесницкий
 
-# Регистрация на ближайшие вебинары
-- 13 Ноября 19:30 https://attendee.gotowebinar.com/rt/5018964211745639937
-- 16 Ноября 20:00 https://attendee.gotowebinar.com/rt/5018964211745639937
-- 19 Ноября 19:30 https://attendee.gotowebinar.com/rt/5018964211745639937
-- 21 Ноября 19:30 https://attendee.gototraining.com/r/4018974878959860738
+# Playlist 
+https://www.youtube.com/watch?v=pzRiqBZh-O4&list=PLe--kalBDwjhxK4bQHD8zpAp-RuhCHu7k
 
 # Выпуски
 ### #1 Git, commit & pull request
