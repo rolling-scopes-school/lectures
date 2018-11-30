@@ -45,7 +45,7 @@
 - Development environment 
    - NPM, NPM scripts
    - [Webpack. Assets management. Project Structure](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/webpack.md)
-   - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/)
+   - [Chrome DevTools](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/chrome-devtools.md)
   
 - [HTTP/HTTPS](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/http.md)
 - [Functional Programming](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/fp.md)
