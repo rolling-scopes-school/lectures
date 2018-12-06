@@ -16,15 +16,15 @@
   
 * the second lection
 
-  * passport
-  * jwt
-  * websockets
-  
-* the third lection
-
   * express
   * mysql
   * request
+  
+* the third lection
+
+  * passport
+  * jwt
+  * websockets
   
 * the forth lection
 
