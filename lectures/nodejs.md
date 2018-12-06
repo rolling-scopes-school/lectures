@@ -1,4 +1,4 @@
-* the first lection
+* the first lection https://github.com/NikitaRudy
 
   * what is nodejs
   * how to install
@@ -14,13 +14,13 @@
   * net
   * http
   
-* the second lection
+* the second lection https://github.com/NikitaRudy
 
   * express
   * mysql
   * request
   
-* the third lection
+* the third lection https://github.com/shutya
 
   * passport
   * jwt
