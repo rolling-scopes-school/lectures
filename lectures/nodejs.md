@@ -1,4 +1,9 @@
-* the first lection https://github.com/NikitaRudy
+#### the first lection 
+##### Trainer [Nikita Rudy](https://github.com/NikitaRudy)
+[YouTube](https://youtu.be/jb_a1mhu3nM)
+[Slides](https://slides.com/nikitarudy/deck#/)
+[GitHub](https://github.com/NikitaRudy/nodejs-lecture/tree/master/first_lecture
+)
 
   * what is nodejs
   * how to install
@@ -14,29 +19,24 @@
   * net
   * http
   
-* the second lection https://github.com/NikitaRudy
+#### the second lection 
+##### Trainer [Nikita Rudy](https://github.com/NikitaRudy)
+[YouTube](https://youtu.be/JqQX3Iqmp_s)
+[Slides](https://slides.com/nikitarudy/expressjs#/)
+[GitHub](https://github.com/NikitaRudy/nodejs-lecture/tree/master/second_lecture)
 
   * express
   * mysql
   * request
   
-* the third lection https://github.com/shutya
+#### the third lection
+##### Trainer [Denis Shutikov](https://github.com/shutya)
+[YouTube](https://youtu.be/mGIOuVp2r5A)
+[Slides](https://docs.google.com/presentation/d/14xh1GicaRmNnb3NnGRKzWXXLCKUQw3KCnWcg2wNVH7M/edit#slide=id.g4b8628cdd8_0_43)
+[GitHub ws-test](https://github.com/Shutya/ws-test)
+[GitHub passport-test](https://github.com/Shutya/passport-test)
 
   * passport
   * jwt
   * websockets
   
-* the forth lection
-
-  * cryptography protocols
-  * certificates
-  * ssh
-  * https
-  * telegram bot api
-  * travisci
-  * clusters
-
-### Trainers:
-- https://github.com/NikitaRudy
-- https://github.com/shutya
-- https://github.com/mmetelskiy
