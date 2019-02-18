@@ -132,6 +132,28 @@ Offline Stream - это набор очных лекций. На которые 
   Оставить заявку на обучение можно тут - https://docs.google.com/forms/d/e/1FAIpQLScBDdG844Y68TT7l-Gp-oovMbTZ8J2iK7PYnTPLWod6GlLepw/viewform 
   Окончательный список будет сформирован как по результатам заявок, так и общей успеваемости в stage#1
 ```  
+## Какие дополнительные материалы вы рекомендуете к изучению?
+#### JavaScript
+- Отличная книга по JS на русском - http://learn.javascript.ru/.   
+Главы которые, желательно прочитать на протяжении первого этапа:
+   - http://learn.javascript.ru/first-steps
+   - http://learn.javascript.ru/writing-js
+   - http://learn.javascript.ru/data-structures
+   - http://learn.javascript.ru/document
+   - http://learn.javascript.ru/events-and-interfaces
+- Альтерантива на английском:
+     * http://speakingjs.com/es5/index.html
+     * http://exploringjs.com/es6/index.html
+    
+#### Git 
+- https://www.pluralsight.com/courses/how-git-works
+- https://www.pluralsight.com/courses/code-school-git-real 
+- https://git-scm.com/book/en/v2
+- https://www.udacity.com/course/how-to-use-git-and-github--ud775
+
+
+## Что из себя представляет "Собеседование с ментором"?
+Описание - https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/technical-screening.md
 
 # FAQ по stage#4
 
