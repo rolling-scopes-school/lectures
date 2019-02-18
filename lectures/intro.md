@@ -2,13 +2,43 @@
 # FAQ по RSSchool
 
 ## Что такое RSSchool?
-**The Rolling Scopes School** - это бесплатные курсы по JavaScript/Front-end, проводимые под 
-эгидой сообщества разработчиков The Rolling Scopes.
+**The Rolling Scopes School** - это бесплатные курсы по JavaScript/Front-end, проводимые сообществом разработчиков The Rolling Scopes.
+
+Сайт набора - https://rs.school/js/
 
 Подробное описание школы:
   - [С точни зрения организаторов](https://medium.com/@dzmitry.varabei/draft-%D0%BA%D0%B0%D0%BA-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B0-the-rolling-scopes-school-32298109e3a3)
   - [C точки зрения менторов](https://medium.com/rs-school/rs-school-myths-63940f3b9fcd)
   - [С точки зрения одного из студентов](https://medium.com/rs-school/the-rolling-scopes-school-глазами-бывшего-студента-e269d23dfe7a)
+  
+# Конспект вводного занятия
+1. Каналы связи. 
+    - Для общения мы используем Discord  - https://discord.gg/pJN2M5Y 
+    Основные каналы:
+      * #announcements. Все объявления, а также любые важные комментарии по учебному процессу, переносу занятий, новым заданиям мы пишем в этот канал. Любые вопросы по анонсам, пишите в канал #questions.
+      * #questions Чат для вопросов.
+      * #general Общий чат.
+    - Анонимный фидбек, жалобы или восторженные отзывы отправляйте, пожалуйста, сюда - https://docs.google.com/forms/d/1F4NeS0oBq-CY805aqiPVp6CIrl4_nIYJ7Z_vUcMOFrQ/viewform 
+2. The Rolling Scopes Overview
+    * https://www.youtube.com/user/therollingscopes
+    * https://www.facebook.com/groups/TheRollingScopes/
+    * https://vk.com/therollingscopes
+    * #RSConf2018 https://tech.onliner.by/2018/02/10/the-rolling-scopes
+3. The Rolling Scopes School Overview
+    * https://github.com/rolling-scopes-school/lectures
+    * https://github.com/rolling-scopes-school/tasks
+    * https://www.youtube.com/watch?list=PLe--kalBDwjhni4LpATaJscPwZUudxVHS&v=ch5vXi45ttg
+    * Code-of-conduct
+4. EPAM
+     * 25 years of growth
+     * Telescope
+     * Benefits Navigator
+     * Outsourcing vs PDS
+5. [Curriculum](https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1ymelvE/edit#gid=0)
+6. [Roles: Student / Trainer / Mentor](https://docs.google.com/document/d/1LdruvgRWuLEkCald2lrNlgIdDCzImYa3fe6IxVblBnI/edit)
+7. RS Padawans - https://epa.ms/padawans
+
+# FAQ
   
 ## Как зарегистрироваться на первый этап?
 Вам необходимо создать заполнить профайл:
@@ -46,8 +76,6 @@ https://github.com/rolling-scopes-school/lectures
 ## Где можно посмотреть список заданий? 
 https://github.com/rolling-scopes-school/tasks
 
-# FAQ по stage#1
-
 ## Где смотреть расписание занятий?
 Самая актуальная версия находится тут - 
 https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1ymelvE/edit#gid=0
@@ -61,6 +89,8 @@ https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1yme
        - 2018Q3 https://youtu.be/Gp0P4LP9QOg 
        - 2018Q1 https://youtu.be/fqZVq-I2Zt4
        - 2017Q3 https://youtu.be/ch5vXi45ttg
+   - На канале Imaguru
+   https://www.youtube.com/channel/UCiJcyyoWidR2gYmwSy0yyPQ
   
   Видео лучше смотреть на скорости 1.25 или 1.5
 
@@ -71,13 +101,18 @@ https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1yme
 - На тест отводится 6 часов.
 - Ожидается, что до теста вы успеете посмотреть лекции по HTML/CSS (ссылки есть в расписании), а также пройти таски на codeacademy
 
+## Каковы требования к английскому языку? 
+- [К моменту окончания третьего этапа обучения ваш уровень английского должен быть уровня A2 (pre-intermediate) или выше.](https://github.com/rolling-scopes-school/tasks/blob/2017-Q3/tasks/english.md)
+- Рекомендуем занимать по 10+ минут в день https://www.duolingo.com/ или https://lingualeo.com или любые другие курсы
+- Протестировать свой уровень английского - http://test.str.by/
+
 ## Что такое CodeJam?
 Это короткий таск описание которого заранее не известно, а на выполнение выделяется ограниченное время (от 60 минут до 48 часов).
 Например, в понедельник в 21:00 все получают ссылку с заданием, на выполнение которого отводится 180 минут.
 
 ## Что такое Offline Streams?
 Offline Stream - это набор очных лекций. На которые обычно регистрируем до 70 человек. Количество и материал лекции зависит от преподавателя, но коррелирует с материалом вебинаров и лекций предложенных для самообучения. 
-Анонсы о регистрация в оффлайн стрим появляются в чате https://gitter.im/rolling-scopes-school/announcements  
+Анонсы о регистрация в оффлайн стрим появляются в канале #announcements  
 
 ## Что такое ShortTrack?
 ```
@@ -97,10 +132,6 @@ Offline Stream - это набор очных лекций. На которые 
   Оставить заявку на обучение можно тут - https://docs.google.com/forms/d/e/1FAIpQLScBDdG844Y68TT7l-Gp-oovMbTZ8J2iK7PYnTPLWod6GlLepw/viewform 
   Окончательный список будет сформирован как по результатам заявок, так и общей успеваемости в stage#1
 ```  
-# FAQ по stage#2
-
-https://github.com/rolling-scopes-school/docs/blob/master/stage2-tasks-faq.md
-
 
 # FAQ по stage#4
 
@@ -126,32 +157,7 @@ https://github.com/rolling-scopes-school/docs/blob/master/stage2-tasks-faq.md
    2. По рекомендации Ментора, если на проекте Ментора есть открытая вакансия, а у вас - необходимые навыки.
    3. По рекомендации проверяющих основных заданий (финальные таски второго и третьего этапа, презентации и т.д.) 
    
-# Конспект вводного занятия
-1. Каналы связи. 
-    - Для общения мы используем Gitter chat c тремя основными каналами:
-      * Анонсы. Все объявления, а также любые важные комментарии по учебному процессу, переносу занятий, новым заданиям мы пишем сюда - https://gitter.im/rolling-scopes-school/announcements Пожалуйста, не пишите в этот чат сами. Любые вопросы по анонсам, пишите в чат - Вопросы.
-      * Вопросы. Любые вопросы пишите сюда - https://gitter.im/rolling-scopes-school/questions
-      * Padawans aka Общий чат -  https://gitter.im/rolling-scopes-school/padawans 
-    - Анонимный фидбек, жалобы или восторженные отзывы отправляйте, пожалуйста, сюда - https://docs.google.com/forms/d/1F4NeS0oBq-CY805aqiPVp6CIrl4_nIYJ7Z_vUcMOFrQ/viewform 
-2. The Rolling Scopes Overview
-    * https://www.youtube.com/user/therollingscopes
-    * https://www.facebook.com/groups/TheRollingScopes/
-    * https://vk.com/therollingscopes
-    * #RSConf2018 https://tech.onliner.by/2018/02/10/the-rolling-scopes
-3. The Rolling Scopes School Overview
-    * https://github.com/rolling-scopes-school/lectures
-    * https://github.com/rolling-scopes-school/tasks
-    * https://www.youtube.com/watch?list=PLe--kalBDwjhni4LpATaJscPwZUudxVHS&v=ch5vXi45ttg
-    * Code-of-conduct
-4. EPAM
-     * 25 years of growth
-     * Telescope
-     * Benefits Navigator
-     * Outsourcing vs PDS
-5. [Curriculum](https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1ymelvE/edit#gid=0)
-6. [Roles: Student / Trainer / Mentor](https://docs.google.com/document/d/1LdruvgRWuLEkCald2lrNlgIdDCzImYa3fe6IxVblBnI/edit)
-7. RS Padawans - https://epa.ms/padawans
-8. [Stage#1 Tasks](https://github.com/rolling-scopes-school/tasks)  
+ 
 
  
 
