@@ -73,10 +73,7 @@
 ## Где можно посмотреть учебную программу курсов?
 https://github.com/rolling-scopes-school/lectures
 
-## Где можно посмотреть список заданий? 
-https://github.com/rolling-scopes-school/tasks
-
-## Где смотреть расписание занятий?
+## Где смотреть расписание занятий и список заданий?
 Самая актуальная версия находится тут - 
 https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1ymelvE/edit#gid=0
 
