@@ -98,6 +98,14 @@ https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1yme
 - На тест отводится 6 часов.
 - Ожидается, что до теста вы успеете посмотреть лекции по HTML/CSS (ссылки есть в расписании), а также пройти таски на codeacademy
 
+## Кто проверяет задания в stage#1?
+- Таски из https://epa.ms/padawans проверяют юнит-тесты, оценка появляется в системе Padawans.
+- Тесты по git, html/css и js проверяются автоматически, оценка появляется в системе Padawans после 11 марта.
+- Таск codeacademy/htmlacademy проверяется автоматически, оценка появляется в системе Padawans после 18 марта.
+- Markup 'Hexal' проверяется ментором в stage#2 или во время интервью в stage#2
+- Code Jam "CSS Quick Draw" проверяется автоматически, оценка появляется в системе Padawans.
+- Таски Git & Markdown, GIt & HTML & CSS проверяется ментором во время интервью в stage#2
+
 ## Каковы требования к английскому языку? 
 - [К моменту окончания третьего этапа обучения ваш уровень английского должен быть уровня A2 (pre-intermediate) или выше.](https://github.com/rolling-scopes-school/tasks/blob/2017-Q3/tasks/english.md)
 - Рекомендуем занимать по 10+ минут в день https://www.duolingo.com/ или https://lingualeo.com или любые другие курсы
