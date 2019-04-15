@@ -13,3 +13,5 @@ link: http://smacss.com/
 ## Block, Element, Modifier (BEM)
 
 link: http://getbem.com/
+
+link (ru): https://ru.bem.info/
