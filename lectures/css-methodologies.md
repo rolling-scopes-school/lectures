@@ -10,10 +10,6 @@ link: https://acss.io/
 
 link: http://smacss.com/
 
-## Scalable and Modular Architecture for CSS (SMACSS)
-
-link: http://smacss.com/
-
 ## Block, Element, Modifier (BEM)
 
 link: http://getbem.com/
