@@ -1,13 +1,13 @@
-###Trainer: Uladzimir Halushka
+### Trainer: Uladzimir Halushka
 
-###Slides
+### Slides
 http://rolling-scopes.github.io/slides/school/HTTP
 
-###Video
+### Video
 - https://youtu.be/x3ByCM78ETw (Part 1)
 - https://youtu.be/iTi1bXSJre0 (Part 2)
 
-###Content
+### Content
 1. History and basic structure of WWW
   - CERN, Sir Timothy John «Tim» Berners-Lee, Håkon Wium Lie
   - Client-Server model
@@ -43,5 +43,5 @@ http://rolling-scopes.github.io/slides/school/HTTP
   - Useful programs & commands 
   - What to read
 
-###Links
+### Links
 - [High Performance Browser Networking by Ilya Grigorik](http://chimera.labs.oreilly.com/books/1230000000545)
