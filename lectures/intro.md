@@ -44,7 +44,7 @@
 Вам необходимо создать заполнить профайл:
   - https://epa.ms/padawans
   
-## До какого числа можно подключится к курсам?
+## До какого числа можно подключиться к курсам?
 Подключиться к курсам можно до первого дедлайна - 26.02.2019
 
 ## Необходим ли ноутбук в процессе обучения?
@@ -81,7 +81,7 @@ https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1yme
   
 ## Где искать видеозаписи лекций?
    - Записи вебинаров и оффлайн лекций можно найти на нашем канале - https://www.youtube.com/user/therollingscopes
-   - Большинство лекции сгруппировано по плейлистам - https://www.youtube.com/user/therollingscopes/playlists
+   - Большинство лекций сгруппировано по плейлистам - https://www.youtube.com/user/therollingscopes/playlists
    - Записи вводного занятия прошлых наборов: 
        - 2018Q3 https://youtu.be/Gp0P4LP9QOg 
        - 2018Q1 https://youtu.be/fqZVq-I2Zt4
@@ -140,13 +140,13 @@ Offline Stream - это набор очных лекций. На которые 
 ## Какие дополнительные материалы вы рекомендуете к изучению?
 #### JavaScript
 - Отличная книга по JS на русском - http://learn.javascript.ru/.   
-Главы которые, желательно прочитать на протяжении первого этапа:
+Главы, которые желательно прочитать на протяжении первого этапа:
    - http://learn.javascript.ru/first-steps
    - http://learn.javascript.ru/writing-js
    - http://learn.javascript.ru/data-structures
    - http://learn.javascript.ru/document
    - http://learn.javascript.ru/events-and-interfaces
-- Альтерантива на английском:
+- Альтернатива на английском:
      * http://speakingjs.com/es5/index.html
      * http://exploringjs.com/es6/index.html
     
