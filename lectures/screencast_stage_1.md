@@ -1,3 +1,5 @@
-# 1. Browsers & IDEs
+# RS School - stage 1
 
-# 2. HTML and CSS Basics
+## 1. Browsers & IDEs
+
+## 2. HTML and CSS Basics
