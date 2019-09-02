@@ -6,9 +6,7 @@
 
 #### Video
 
-RSSchool - https://www.youtube.com/watch?v=13KzPeWlhuE&list=PLe--kalBDwjj81fKdWlvpLsizajSAK-lh&index=10
-
-Slides
+[RS School stage 1 intro](https://www.youtube.com/watch?v=13KzPeWlhuE&list=PLe--kalBDwjj81fKdWlvpLsizajSAK-lh&index=10 "RS School stage 1 intro")
 
 ## 2. Browsers & IDEs
 
