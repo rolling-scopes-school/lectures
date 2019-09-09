@@ -1,14 +1,6 @@
 # RS School - stage 1
 
-## 1. Course overview
-
-#### Author: Дмитрий Воробей
-
-#### Video
-
-[RS School stage 1 intro](https://www.youtube.com/watch?v=13KzPeWlhuE&list=PLe--kalBDwjj81fKdWlvpLsizajSAK-lh&index=10 "RS School stage 1 intro")
-
-## 2. Browsers & IDEs
+## 1. Browsers & IDEs
 
 #### Author: Сергей Шаляпин
 
@@ -20,7 +12,7 @@
 
 [RSSchool](https://slides.com/sergeyshalyapin/front-end#/ "Browsers & IDEs")
 
-## 3. HTML and CSS Basics
+## 2. HTML and CSS Basics
 
 #### Author: Сергей Шаляпин
 
