@@ -1,6 +1,6 @@
 # RS School - stage 1
 
-## 1. Browsers & IDEs
+## 2. Browsers & IDEs
 
 #### Author: Сергей Шаляпин
 
@@ -12,7 +12,7 @@
 
 [RSSchool](https://slides.com/sergeyshalyapin/front-end#/ "Browsers & IDEs")
 
-## 2. HTML and CSS Basics
+## 3. HTML and CSS Basics
 
 #### Author: Сергей Шаляпин
 
