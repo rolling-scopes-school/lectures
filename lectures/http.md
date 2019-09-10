@@ -1,7 +1,7 @@
 ### Trainer: Uladzimir Halushka
 
 ### Slides
-- http://rolling-scopes.github.io/slides/school/HTTP
+http://rolling-scopes.github.io/slides/school/HTTP
 
 ### Video - HTTP / HTTP2 / AJAX / Promises | Wednesday, May 8, 2019	
 - https://youtu.be/x3ByCM78ETw (Part 1)
