@@ -14,7 +14,7 @@ https://youtu.be/OOVayP9HDTg (Part 2)
 
 ### Task
 
-https://github.com/rolling-scopes-school/tasks/blob/2017-Q3/tasks/Codecademy_HTML_CSS_Course.md
+https://github.com/rolling-scopes-school/tasks/blob/master/tasks/stage-1/HTML-CSS-self-ru.md
 
 ### Content
 1. Intro
