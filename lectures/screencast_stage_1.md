@@ -12,7 +12,7 @@ alt="IMAGE ALT TEXT HERE" width="250" height="250"/></a>
 
 [RSSchool](https://www.youtube.com/watch?v=soN8Qxe56Zw&list=PLe--kalBDwjj81fKdWlvpLsizajSAK-lh&index=9 "Browsers & IDEs")
 
-[01:35](https://youtu.be/soN8Qxe56Zw?t=95) - Файлы в вебе и протоколы их передачи
+[01:35](https://youtu.be/soN8Qxe56Zw?t=95) - Файлы в вебе и протоколы их передачи  
 [11:30](https://youtu.be/soN8Qxe56Zw?t=690) - Текстовые редакторы и IDE  
 [29:25](https://youtu.be/soN8Qxe56Zw?t=1765) - Браузеры  
 [44:50](https://youtu.be/soN8Qxe56Zw?t=2690) - Практика  
