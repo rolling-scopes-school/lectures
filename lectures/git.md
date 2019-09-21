@@ -77,7 +77,7 @@ Git allows a developer to copy a remote subversion repository to a local instanc
 |`git checkout -b first-task`  |Create and switсh to the first-task branch |
 |`git add index.js`  |Add `index.js` contents to the index.|
 |`git add .`  |Add all content from the current folder to the index|
-|`git commit index.js`  |Add `index.js` contents to the index|
+|`git commit index.js`  |Record `index.js` changes to the repository|
 |`git push origin first-task`  |Push the current state of your `first-task` branch, including all commits, up to github.|
 |`git pull`  |Bring your local branch up-to-date with the state of the remote branch on github.|
 
