@@ -1,6 +1,6 @@
 # RS School - stage 1
 
-## 2. Browsers & IDEs
+## 1. Browsers & IDEs
 
 #### Author: Сергей Шаляпин
 
@@ -22,7 +22,7 @@ alt="IMAGE ALT TEXT HERE" width="250" height="250"/></a>
 
 [RSSchool](https://slides.com/sergeyshalyapin/front-end#/ "Browsers & IDEs")
 
-## 3. HTML and CSS Basics
+## 2. HTML and CSS Basics
 
 #### Author: Сергей Шаляпин
 
