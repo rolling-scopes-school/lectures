@@ -35,3 +35,7 @@ alt="IMAGE ALT TEXT HERE" width="250" height="250"/></a>
 #### Slides
 
 [HTML and CSS Basics](https://slides.com/sergeyshalyapin/html_css_basics#/ "HTML and CSS Basics")
+
+#### Rewind
+
+https://github.com/rolling-scopes-school/lectures/blob/master/lectures/html-css-basics.md
