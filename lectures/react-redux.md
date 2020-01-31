@@ -1,4 +1,6 @@
-## React. 1 Lecture. Components (Main)
+## React. 1 Lecture. Webpack
+
+## React. 2 Lecture. Components (Main)
 ### 1 part
 * What is react?
 * Virtual DOM as approach to build fast UI components, Why V-DOM instead of direct DOM manipualtion
@@ -20,7 +22,7 @@
 * users list component (key prop explained)
 * TBA
 
-## React. 2 Lecture. Components(Advanced)
+## React. 3 Lecture. Components(Advanced)
 ### 1 part
 * Quick revison of Lecture #1
 * Reconciliation algorithm
@@ -28,7 +30,8 @@
 * refs, uncontrolled components
 * new context API
 * advanced JSX (hoc, render prop, portal, hooks)
-* lazy, suspense
+* lazy, suspense, memo
+* performance optimisations
 
 ### 2 part (practice)
 * todo app development
@@ -39,7 +42,7 @@
 * todos statistics (completed counter, uncompleted counter)
 * TBA
 
-## 3 React. Lecture. Routing
+## React. 4 Lecture. Routing
 ### 1 part
 * what is SPA
 * React-router
@@ -50,7 +53,7 @@
 ### 2 part (practice)
 * react-router usage
 
-## 4 React. Lecture. Flux+Redux
+## React. 5 Lecture. Flux+Redux
 ### 1 part
 * the problem with app state managment in react
 * the problem with passing props from root component to leaf components
@@ -65,17 +68,17 @@
 * redux implementation
 * redux usage
 
-## React. 5 Lecture. SSR
+## React. 6 Lecture. SSR
 ### 1 part
 * serverside rendering as a way to solve the main problems of SPAs
 * why serverside rendering isn't silver bullet
 * TBA
 
 ### 2 part (practice)
-* ssr implementation
+* ssr implementation (live)
 
 
-## React. 6 Lecture. Testing
+## React. 7 Lecture. Testing
 * Testing react apps
 * jest
 * enzyme
