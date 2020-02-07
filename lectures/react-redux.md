@@ -1,4 +1,6 @@
-## 1 Lecture - Trainer: Alexey Farbotko
+## React. 1 Lecture. Webpack
+
+## React. 2 Lecture. Components (Main)
 ### 1 part
 * What is react?
 * Virtual DOM as approach to build fast UI components, Why V-DOM instead of direct DOM manipualtion
@@ -7,10 +9,11 @@
 * stateless, statefull components
 * lifecycle hooks (React 16) and how they could be useful
 * how to pass data to child components
-* state. how to use it, how to change it
+* state. how to use it, how to change it (how react batches updates, async setState)
 * how to handle DOM events
 * how to create list, key prop
-* TBA
+* conditional rendering
+
 ### 2 part (practice)
 * react app creation from scratch
 * webpack configuration 
@@ -19,19 +22,17 @@
 * users list component (key prop explained)
 * TBA
 
-## 2 Lecture - Trainer: Alexey Farbotko
+## React. 3 Lecture. Components(Advanced)
 ### 1 part
 * Quick revison of Lecture #1
 * Reconciliation algorithm
-* advanced JSX
 * propTypes and why it is important
 * refs, uncontrolled components
-* how react batches updates, async setState
-* how to make http request (fetch, axios)
 * new context API
-* lifecycle hooks best practices
-* best practices
-* TBA
+* advanced JSX (hoc, render prop, portal, hooks)
+* lazy, suspense, memo
+* performance optimisations
+
 ### 2 part (practice)
 * todo app development
 * add todo, remove todo
@@ -41,7 +42,18 @@
 * todos statistics (completed counter, uncompleted counter)
 * TBA
 
-## 3 Lecture - Trainer: Nikita Rudy
+## React. 4 Lecture. Routing
+### 1 part
+* what is SPA
+* React-router
+* hash routing
+* browser routing
+* problems of SPAs
+* TBA 
+### 2 part (practice)
+* react-router usage
+
+## React. 5 Lecture. Flux+Redux
 ### 1 part
 * the problem with app state managment in react
 * the problem with passing props from root component to leaf components
@@ -51,29 +63,23 @@
 * pure functions
 * main redux principles (read-only state, reducer, actions)
 * middlewares
+
 ### 2 part (practice)
 * redux implementation
 * redux usage
 
-## 4 Lecture (practice) - Trainer: Nikita Rudy
-* todo app refactoring to use redux
-* TBA
-
-## 5 Lecture - Trainer: Yulia Galuzo
-* what is SPA
-* React-router
-* hash routing
-* browser routing
-* problems of SPAs
-* TBA 
-
-
-## 6 Lecture - Trainer: Yulia Galuzo
+## React. 6 Lecture. SSR
+### 1 part
 * serverside rendering as a way to solve the main problems of SPAs
 * why serverside rendering isn't silver bullet
+* TBA
+
+### 2 part (practice)
+* ssr implementation (live)
+
+
+## React. 7 Lecture. Testing
 * Testing react apps
 * jest
 * enzyme
-* advanced
-* useful react stack libs
 * TBA
