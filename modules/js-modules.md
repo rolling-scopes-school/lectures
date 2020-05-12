@@ -1,8 +1,32 @@
-### Video 
+# Modules in JavaScript
+In the lesson scope will be covered such topics as, Modules Basics (scope, syntax, features),
+also Modules Types and their Development History.
+
+## Agenda
+- What is module / module pattern? For what purposes they were created?
+- Modules types (AMD, ES6, CommonJS, UMD).
+- Modules syntax.
+- Common modules features (export default, named exports, exports as, etc).
+- Dynamic imports.
+
+## Required to self-study
+- [Modules basics](https://javascript.info/modules)
+- [A 10 minute primer to JavaScript modules, module formats, module loaders and module bundlers](https://jvandemo.com/a-10-minute-primer-to-javascript-modules-module-formats-module-loaders-and-module-bundlers/)
+
+## To further self-education
+- [Learn the basics of the JavaScript module system and build your own library](https://www.freecodecamp.org/news/anatomy-of-js-module-systems-and-building-libraries-fadcd8dbd0e/)
+- [Module history in practice](https://www.youtube.com/watch?v=JDDn57_z5Og)
+- [JavaScript Modules Past & Present](https://www.youtube.com/watch?v=GQ96b_u7rGc)
+- [4 Best Practices to Write Quality JavaScript Modules](https://dmitripavlutin.com/javascript-modules-best-practices/)
+
+## Time consumption
+- 2.5 hours for main block
+- 3.5 hours for additional block
+
+## RS School Video
 - https://youtu.be/7e-5P6iPFzY
 
-### Slides 
-- http://kirilknysh.github.io/js-modules-talk/#/
+### Slides - http://kirilknysh.github.io/js-modules-talk/#/
 
 ### Content
 1. CommonJS modules
@@ -24,9 +48,7 @@
 - http://exploringjs.com/es6/ch_modules.html
 - http://jsmodules.io/cjs.html
 
----
-
-### Лекция - JS modules - https://youtu.be/7e-5P6iPFzY <br>
+### Timeline - https://youtu.be/7e-5P6iPFzY <br>
 1. начало лекции https://youtu.be/7e-5P6iPFzY?t=171
 1. зачем нужны модули https://youtu.be/7e-5P6iPFzY?t=193
 1. пример без модульности https://youtu.be/7e-5P6iPFzY?t=299
