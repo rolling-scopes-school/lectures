@@ -23,3 +23,5 @@
 [**Отзывчивый веб-дизайн**](https://webref.ru/layout/advanced-html-css/responsive-web-design "webref")  
 [**Адаптивный веб-дизайн**](https://webref.ru/layout/bootstrap/responsive "webref")  
 [**Адаптивный макет на флексбоксах**](https://webref.ru/layout/flexbox-tutorial/create-responsive-flexbox-layout "webref")  
+[**Относительные и абсолютные величины**](https://webref.ru/css/value/size "webref")  
+
