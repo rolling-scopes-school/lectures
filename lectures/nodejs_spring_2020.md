@@ -63,4 +63,4 @@
   * [JWT Authentication & Authorization in NodeJs/Express & MongoDB REST APIs(2019)](https://medium.com/swlh/jwt-authentication-authorization-in-nodejs-express-mongodb-rest-apis-2019-ad14ec818122)
   * [JWT official site](https://jwt.io)
 
-- [NodeJS 2020Q1 Task5 solution discussion](https://www.youtube.com/watch?v=_FmFv8g4JDY)
+- [NodeJS 2020Q1 Task5 solution discussion](https://www.youtube.com/watch?v=_FmFv8g4JDY) - Sergei Karaulov
