@@ -10,6 +10,11 @@ http://slides.com/uladzimirhalushka/deck-1
 
 https://youtu.be/ankvwnNJFPA
 
+### Agenda
+- Git
+- GitHub
+- Pull Request Workflow
+
 #### Content
 - Introduction to Version Control
 - The cd command
@@ -82,7 +87,8 @@ Git allows a developer to copy a remote subversion repository to a local instanc
 |`git pull`  |Bring your local branch up-to-date with the state of the remote branch on github.|
 
 
-#### Useful links 
+#### Useful links
+-  http://try.github.io/
 -  https://git-scm.com/book/id/v2/Getting-Started-Git-Basics
 -  http://alistapart.com/article/the-art-of-the-commit
 -  https://www.atlassian.com/git/tutorials/merging-vs-rebasing
