@@ -5,17 +5,14 @@
 
 ### Внимание!
 - Даты, указанные в этом доке не финальные и могут изменяться. Сообщение об этом будет в #announcements
-- Выполнение заданий заранее крайне приветствуется!
+- Выполнение заданий заранее приветствуется!
 
 ## Неделя #0. Регистрация
 Проверка базовых знаний и наличия свободного времени.   
 #### Задание: 
   - [Codewars #1](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/codewars-stage-1.md)  
-  - Deadline:  11 Июня 2020 23:59 GMT+3  
+  - Deadline:  7 Июня 2020 23:59 GMT+3  
   - Ментор: Dzmitry Varabei 
-  
-#### Лекция. Q&A
-4 Июня 2020 11:00 GMT+3 @Dzmitry Varabei
   
 ## Неделя #1. Основы HTML и CSS
 - Базовые знания по HTML, CSS
@@ -81,21 +78,43 @@
 ## Материалы для самостоятельного изучения: 
 - Вариант 1: https://learn.javascript.ru/ или его англоязычная версия https://javascript.info/
 - Вариант 2: https://exploringjs.com/impatient-js/index.html
-- Вариант 3: TBD
+- Вариант 3: Youtube
+  * [JS Intro](https://www.youtube.com/watch?v=cP08joG36F0), aprox 1h
+  * [JS Datatypes](https://www.youtube.com/watch?v=kbGlKiVcTvo&t=1s), aprox 1h 26m
+  * [JS Scope](https://www.youtube.com/watch?v=qKEm4U8DizY), aprox 1h
+  * [JS Styleguide](https://www.youtube.com/watch?v=vBZNtwU7qns), aprox 40m
+  * [Data Structures with JS](https://www.youtube.com/watch?v=j6w_ZJSYNRU) approx 1h, optional
 
 #### Лекция. Q&A: 
 2 Июля 2020 15:00 GMT+3 @Maksim Shastel
 
-## Неделя #5 Modules, Async programming
-####  Workshop. Q&A: 
-- Тема: Chat UI. 
-- 2 Июля 2020 15:00 GMT+3 @Maksim Shastel
-
-## Неделя #6 Изучение основ DOM & DOM Events
+## Неделя #5 Изучение основ DOM & DOM Events
 #### Задание: 
 - [Virtual Keyboard](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/virtual-keyboard/virtual-keyboard-ru.md)
 - Deadline: 9 Июля 2020
 - Менторы: Aleh Serhiyenia, TBD
+
+#### Self education (recommended speed 1.5):
+* [JS DOM](https://www.youtube.com/watch?v=lHsQ6EEp3ms), aprox 1h 30m
+* [JS Events](https://www.youtube.com/watch?v=84JvgOpPY_Q), aprox 1h
+* [Что за чертовщина такая event loop? ](https://www.youtube.com/watch?v=8aGhZQkoFbQ), en, x1, aprox 26m
+* [Event Loop & Animations](https://www.youtube.com/watch?v=dWE3WEpqr7M), aprox 1h, Optional
+
+## Неделя #6 Modules, Async programming
+####  Workshop. Q&A: 
+- Тема: Chat UI. 
+- 2 Июля 2020 15:00 GMT+3 @Maksim Shastel
+
+#### Self education (recommended speed 1.5):
+* [JS Callbacks Promises](https://www.youtube.com/watch?v=0fFg3c4C9tA&t=1s), aprox 1h 20m
+* [JavaScript Modules](https://www.youtube.com/watch?v=7e-5P6iPFzY&t=4s), aprox 1h
+* [Async programming](https://youtu.be/_C1hM3LjMvM?t=190) approx 1h, Optional material
+* [Node.js and npm basics](https://www.youtube.com/watch?v=CAvqa6Lj_Rg) approx 1h, Optional material
+* [Networking, 1/2](https://www.youtube.com/watch?v=4jA9Nea51T8&t=1s), aprox 1h
+* [Networking, 2/2](https://www.youtube.com/watch?v=_8GoJck9O9Y), aprox 1h
+* [Networking, 3/2](https://www.youtube.com/watch?v=DYR8g_kI9Xs), aprox 1h
+* [WebSockets](https://www.youtube.com/watch?v=AY466N_5TBw), aprox 15m
+
 
 ## Неделя #7-8 Финальный проект
 #### Задание:
