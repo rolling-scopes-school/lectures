@@ -2,16 +2,25 @@
 Что необходимо перед стартом курса:
 - Уверенные знания и опыт работы с любым из языков программирования 
 - Базовые знания Git
+- Присоединиться к чату Discord - https://discord.gg/rdY8Fmf. Вводная информация в канале #welcome.
+- Выполнить тестовое задание
 
 ### Внимание!
-- Даты, указанные в этом доке не финальные и могут изменяться. Сообщение об этом будет в #announcements
+- Даты, указанные в этом доке не финальные и могут изменяться. Сообщение об этом будет в канале #announcements Discord чата.
 - Выполнение заданий заранее приветствуется!
 
-## Неделя #0. Регистрация
-Проверка базовых знаний и наличия свободного времени.   
+## Общение. Каналы связи
+Все общение в рамках курса происходит в чате Discord - https://discord.gg/rdY8Fmf. Вводная информация в канале #welcome.
+
+## Запись вводного занятия
+[Можно посмотреть тут](https://web.microsoftstream.com/video/d42c263d-c93d-49d0-8a77-91950c082ae9)
+
+# Учебный план
+## Неделя #0. Регистрация и тестовое задание
+Перед стартом курс ментии необходимо выполнить первое задание   
 #### Задание: 
   - [Codewars #1](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/codewars-stage-1.md)  
-  - Deadline:  7 Июня 2020 23:59 GMT+3  
+  - Deadline:  11 Июня 2020 23:59 GMT+3  
   - Ментор: Dzmitry Varabei 
   
 ## Неделя #1. Основы HTML и CSS
@@ -22,7 +31,7 @@
 
 #### Задание: 
 - [Singolo: Часть первая.](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/markups/level-2/singolo/part-1)
-- Deadline:  12 Июня 2020 23:59 GMT+3 
+- Deadline:  14 Июня 2020 23:59 GMT+3 
 - Ментор: Viktoryia Vorozhun  
 
 #### Материалы для самостоятельного изучения
@@ -42,7 +51,7 @@
 
 #### Задание: 
 - [Singolo: Часть вторая.](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/markups/level-2/singolo/part-2) 
-- Deadline:  18 Июня 2020 23:59 GMT+3
+- Deadline:  21 Июня 2020 23:59 GMT+3
 - Ментор: Viktoryia Vorozhun
 
 #### Материалы для самостоятельного изучения:
@@ -53,7 +62,10 @@
 18 Июня 2020 15:00 GMT+3 @Viktoryia Vorozhun
 
 ## Неделя #3. Кросс-чек Singolo. Code review. 
-Проведение [cross-check.](https://docs.rs.school/#/cross-check-flow)
+#### Cross-check Singolo
+- [Описание процесса cross-check](https://docs.rs.school/#/cross-check-flow)
+- Дата старта: 22 июня
+- Дата окончания: 25 июня
 
 #### Лекция. Q&A:
 25 Июня 2020 15:00 GMT+3 @Viktoryia Vorozhun
@@ -72,7 +84,7 @@
 - Basic JS
 - Codewars #2
 - Core JS (optional)
-- Deadline: 2 Июля 2020
+- Deadline: 5 Июля 2020
 - Менторы: Maksim Shastel, Maksim Shylau
 
 ## Материалы для самостоятельного изучения: 
@@ -91,7 +103,7 @@
 ## Неделя #5 Изучение основ DOM & DOM Events
 #### Задание: 
 - [Virtual Keyboard](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/virtual-keyboard/virtual-keyboard-ru.md)
-- Deadline: 9 Июля 2020
+- Deadline: 12 Июля 2020
 - Менторы: Aleh Serhiyenia, TBD
 
 #### Self education (recommended speed 1.5):
@@ -103,7 +115,7 @@
 ## Неделя #6 Modules, Async programming
 ####  Workshop. Q&A: 
 - Тема: Chat UI. 
-- 2 Июля 2020 15:00 GMT+3 @Maksim Shastel
+- 9 Июля 2020 15:00 GMT+3 @Maksim Shastel
 
 #### Self education (recommended speed 1.5):
 * [JS Callbacks Promises](https://www.youtube.com/watch?v=0fFg3c4C9tA&t=1s), aprox 1h 20m
@@ -119,7 +131,7 @@
 ## Неделя #7-8 Финальный проект
 #### Задание:
 - [Fancy weather](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/fancy-weather.md)
-- Deadline: 23 Июля 2020 23:59 GMT+3
+- Deadline: 26 Июля 2020 23:59 GMT+3
 - Ментор: Pavel Razuvalau
 
 ## Неделя #9 Cross-интервью по CoreJS. Кросс-чек Fancy weather. Code review. 
