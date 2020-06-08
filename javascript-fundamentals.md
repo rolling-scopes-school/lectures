@@ -20,7 +20,7 @@
 Перед стартом курс ментии необходимо выполнить первое задание   
 #### Задание: 
   - [Codewars #1](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/codewars-stage-1.md)  
-  - Deadline:  11 Июня 2020 23:59 GMT+3  
+  - Deadline:  14 Июня 2020 23:59 GMT+3  
   - Ментор: Dzmitry Varabei 
   
 ## Неделя #1. Основы HTML и CSS
