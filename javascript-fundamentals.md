@@ -31,6 +31,7 @@
 
 #### Задание: 
 - [Singolo: Часть первая.](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/markups/level-2/singolo/part-1)
+- [Singolo: Часть третья.](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/markups/level-2/singolo/part-3)
 - Deadline:  14 Июня 2020 23:59 GMT+3 
 - Ментор: Viktoryia Vorozhun  
 
