@@ -113,6 +113,9 @@
 * [Что за чертовщина такая event loop? ](https://www.youtube.com/watch?v=8aGhZQkoFbQ), en, x1, aprox 26m
 * [Event Loop & Animations](https://www.youtube.com/watch?v=dWE3WEpqr7M), aprox 1h, Optional
 
+#### Лекция. Q&A:
+8 Июля 2020 15:00 GMT+3 @Aleh Serhiyenia
+
 ## Неделя #6 Modules, Async programming
 ####  Workshop. Q&A: 
 - Тема: Chat UI. 
