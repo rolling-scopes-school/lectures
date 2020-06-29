@@ -85,10 +85,11 @@ https://community-z.com/events/js-fundamentals
   - es6 syntax
 - JS ecosystem basics
 #### Задания: 
-- Basic JS
-- Codewars #2
-- Core JS (optional)
+- [Basic JS](https://github.com/AlreadyBored/basic-js)
+- [Codewars #2](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/codewars.md)
+- [Core JS (optional)](https://github.com/mikhama/core-js-101)
 - Deadline: 7 Июля 2020
+
 - Менторы: Maksim Shastel, Maksim Shylau
 
 ## Материалы для самостоятельного изучения: 
