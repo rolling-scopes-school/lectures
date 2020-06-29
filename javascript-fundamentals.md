@@ -88,7 +88,7 @@ https://community-z.com/events/js-fundamentals
 - Basic JS
 - Codewars #2
 - Core JS (optional)
-- Deadline: 5 Июля 2020
+- Deadline: 7 Июля 2020
 - Менторы: Maksim Shastel, Maksim Shylau
 
 ## Материалы для самостоятельного изучения: 
@@ -102,7 +102,7 @@ https://community-z.com/events/js-fundamentals
   * [Data Structures with JS](https://www.youtube.com/watch?v=j6w_ZJSYNRU) approx 1h, optional
 
 #### Лекция. Q&A: 
-2 Июля 2020 15:00 GMT+3 @Maksim Shastel
+7 Июля 2020 15:00 GMT+3 @Maksim Shastel
 
 ## Неделя #5 Изучение основ DOM & DOM Events
 #### Задание: 
