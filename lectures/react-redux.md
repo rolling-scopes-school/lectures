@@ -29,7 +29,7 @@
 * propTypes and why it is important
 * refs, uncontrolled components
 * new context API
-* advanced JSX (hoc, render prop, portal, hooks)
+* advanced JSX (hoc, render prop, portal)
 * lazy, suspense, memo
 * performance optimisations
 
@@ -42,7 +42,19 @@
 * todos statistics (completed counter, uncompleted counter)
 * TBA
 
-## React. 4 Lecture. Routing
+## React. 4 Lecture. Hooks
+
+* The useState Hook
+* useState vs. setState
+* Complex State with useState
+* The useEffect Hook
+* useEffect Dependencies
+* Cleaning up Effects
+* The useReducer Hook
+* The Context API & useContext Hook
+* TBA
+
+## React. 5 Lecture. Routing
 ### 1 part
 * what is SPA
 * React-router
@@ -53,7 +65,7 @@
 ### 2 part (practice)
 * react-router usage
 
-## React. 5 Lecture. Flux+Redux
+## React. 6 Lecture. Flux+Redux
 ### 1 part
 * the problem with app state managment in react
 * the problem with passing props from root component to leaf components
@@ -68,7 +80,7 @@
 * redux implementation
 * redux usage
 
-## React. 6 Lecture. SSR
+## React. 7 Lecture. SSR
 ### 1 part
 * serverside rendering as a way to solve the main problems of SPAs
 * why serverside rendering isn't silver bullet
@@ -78,7 +90,7 @@
 * ssr implementation (live)
 
 
-## React. 7 Lecture. Testing
+## React. 8 Lecture. Testing
 * Testing react apps
 * jest
 * enzyme
