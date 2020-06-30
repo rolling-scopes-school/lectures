@@ -152,6 +152,8 @@ https://community-z.com/events/js-fundamentals
 - Maksim Shylau https://github.com/AlreadyBored
 - Pavel Razuvalau https://github.com/pavelrazuvalau 
 - Dzmitry Varabei https://github.com/dzmitry-varabei
+- Varvara Deviaterikova https://github.com/hallovarvara
+
 
 
 
