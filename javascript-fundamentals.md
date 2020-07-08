@@ -108,7 +108,7 @@ https://community-z.com/events/js-fundamentals
 ## Неделя #5 Изучение основ DOM & DOM Events
 #### Задание: 
 - [Virtual Keyboard](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/virtual-keyboard/virtual-keyboard-ru.md)
-- Deadline: 12 Июля 2020
+- Deadline: 15 Июля 2020
 - Менторы: Aleh Serhiyenia, TBD
 
 #### Self education (recommended speed 1.5):
