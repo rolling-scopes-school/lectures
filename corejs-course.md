@@ -52,24 +52,14 @@
 - [Lodash](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/lodash.md)
 - [How browser works](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/how-browser-works.md)
 
-
 - Other
    - [Match Match game. Error Analysis](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/match-match-game-error-analysis.md)
    - [WebSocket Challenge](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/websocket-challenge.md)
-
-
-## Stage #3
-- [React/Redux](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/react-redux.md)
-- [Node.js](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/nodejs.md)
-- [Angular](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/angular.md)
-- [Test-driven development](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/tdd.md)
-- [Design Patterns](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/design-patterns.md)
-- [Maintainable CSS](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/maintainable-css.md)
-- [Refactoring](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/refactoring.md)
-- TypeScript
-
-## Stage #4
-- [Accessibility](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/a11y.md)
-- [Software Development Process](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/software-development-process.md)
-- [UX](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/ux.md)
-- [AngularJS](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/angularjs.md)
+   - [Test-driven development](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/tdd.md)
+   - [Design Patterns](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/design-patterns.md)
+   - [Maintainable CSS](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/maintainable-css.md)
+   - [Refactoring](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/refactoring.md)
+   - TypeScript
+   - [Accessibility](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/a11y.md)
+   - [Software Development Process](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/software-development-process.md)
+   - [UX](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/ux.md)
