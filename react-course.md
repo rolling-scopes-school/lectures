@@ -41,6 +41,17 @@ Form for questions: https://docs.google.com/document/d/1p7xsA6wgcWB_-27bsV2llLUL
 
 ## React. 2 Lecture. Components (Main)
 
+### Before the lecture
+
+https://reactjs.org/docs/hello-world.html
+https://reactjs.org/docs/introducing-jsx.html
+https://reactjs.org/docs/rendering-elements.html
+https://reactjs.org/docs/components-and-props.html
+https://reactjs.org/docs/state-and-lifecycle.html
+https://reactjs.org/docs/handling-events.html
+https://reactjs.org/docs/conditional-rendering.html
+https://reactjs.org/docs/lists-and-keys.html
+
 Form for questions: https://docs.google.com/document/d/1u86RSOAVfrSmiziIB3gXwI9yOw0Xty8QIvNG0GPB7FI/edit?usp=sharing
 
 ### 1 part
@@ -72,6 +83,16 @@ Form for questions: https://docs.google.com/document/d/1u86RSOAVfrSmiziIB3gXwI9y
 
 ## React. 3 Lecture. Components(Advanced)
 
+### Before the lecture
+
+https://reactjs.org/docs/reconciliation.html
+https://reactjs.org/docs/typechecking-with-proptypes.html
+https://reactjs.org/docs/refs-and-the-dom.html
+https://reactjs.org/docs/context.html
+https://reactjs.org/docs/higher-order-components.html
+https://reactjs.org/docs/portals.html
+https://reactjs.org/docs/render-props.html
+
 Form for questions: https://docs.google.com/document/d/1UEm5-YvbDbyk75gvfeFjXS_PhP5cFQNzvztL99RR1_A/edit?usp=sharing
 
 ### 1 part
@@ -101,6 +122,15 @@ Form for questions: https://docs.google.com/document/d/1UEm5-YvbDbyk75gvfeFjXS_P
 
 ## React. 4 Lecture. Hooks
 
+### Before the lecture
+
+https://reactjs.org/docs/hooks-intro.html
+https://reactjs.org/docs/hooks-overview.html
+https://reactjs.org/docs/hooks-state.html
+https://reactjs.org/docs/hooks-effect.html
+https://reactjs.org/docs/hooks-rules.html
+https://reactjs.org/docs/hooks-custom.html
+
 Form for questions: https://docs.google.com/document/d/1Uz08VF7V33UHGB7-o4AMI-CMzyI1B-IspWwP1msRfco/edit?usp=sharing
 
 * The useState Hook
@@ -109,7 +139,6 @@ Form for questions: https://docs.google.com/document/d/1Uz08VF7V33UHGB7-o4AMI-CM
 * The useEffect Hook
 * useEffect Dependencies
 * Cleaning up Effects
-* The useReducer Hook
 * The Context API & useContext Hook
 * TBA
 
@@ -120,6 +149,10 @@ https://github.com/rolling-scopes-school/tasks/blob/master/tasks/datagrid.md
 Form for questions: https://docs.google.com/document/d/1KRc6ahRG6UW8CpvJm8OTySNqS9shP2sxSyuVTOD-pJw/edit?usp=sharing
 
 ## React. 5 Lecture. Routing
+
+### Before the lecture
+
+https://reactrouter.com/web/guides/philosophy
 
 Form for questions: https://docs.google.com/document/d/1EYVxVrQMSYe7djvljAvcYtxtNvmFF6zL9_Psl85CeEc/edit?usp=sharing
 
@@ -142,6 +175,13 @@ Form for questions: https://docs.google.com/document/d/1EYVxVrQMSYe7djvljAvcYtxt
 
 ## React. 6 Lecture. Flux+Redux
 
+### Before the lecture
+
+https://redux.js.org/introduction/motivation
+https://redux.js.org/introduction/core-concepts
+https://redux.js.org/introduction/three-principles
+https://redux.js.org/introduction/ecosystem
+
 Form for questions: https://docs.google.com/document/d/1IZpVZTCegi7rmVXcZpp-rE_Z_UZbWjgrT06qszGFBaU/edit?usp=sharing
 
 ### 1 part
@@ -153,6 +193,7 @@ Form for questions: https://docs.google.com/document/d/1IZpVZTCegi7rmVXcZpp-rE_Z
 * pure functions
 * main redux principles (read-only state, reducer, actions)
 * middlewares
+* redux hooks
 
 ### 2 part (practice)
 * redux implementation
@@ -167,8 +208,12 @@ Form for questions: https://docs.google.com/document/d/1IZpVZTCegi7rmVXcZpp-rE_Z
     https://github.com/CharlesStover/reactn
     https://github.com/andregardi/use-global-hook#readme
     https://react-redux.js.org/next/api/hooks
+    
+## React. 7 Lecture. Grapgql
 
-## React. 7 Lecture. SSR
+TBA
+
+## React. 8 Lecture. SSR
 
 Form for questions: https://docs.google.com/document/d/12i8sSn5K8qbDjYmOUYWY1kaii_60C4dm6gZ2Bt5RXho/edit?usp=sharing
 
@@ -190,7 +235,7 @@ Form for questions: https://docs.google.com/document/d/12i8sSn5K8qbDjYmOUYWY1kai
     https://itnext.io/server-side-rendering-with-react-redux-and-react-router-fa5b67d4965e
 GitHub
 
-## React. 8 Lecture. Testing
+## React. 9 Lecture. Testing
 
 Form for questions: https://docs.google.com/document/d/1yl5g74K3Ohd407PRpG34LoQWGRXl_DSQzbzKmAzHewE/edit?usp=sharing
 
