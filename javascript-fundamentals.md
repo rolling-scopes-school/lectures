@@ -136,7 +136,7 @@ https://community-z.com/events/js-fundamentals
 * [WebSockets](https://www.youtube.com/watch?v=AY466N_5TBw), aprox 15m
 
 #### Опциональное задание:
-[Chat UI](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/chat.md)
+[Chat UI](https://github.com/rolling-scopes-school/RS-Short-Track/wiki/6.-Chat)
 Deadline: Такой же как для Fancy weather
 
 ## Неделя #7-8 Финальный проект
