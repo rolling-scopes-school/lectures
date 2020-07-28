@@ -149,14 +149,14 @@ Deadline: Такой же как для Fancy weather
 **Менторы**: [@Maksim Shastel](https://github.com/Shastel), [@Uladzimir Halushka](https://github.com/humanamburu)
 
 # Менторы и контрибьюторы этого курса:
-- Aleh Serhiyenia https://github.com/pulya10c
-- Viktoryia Vorozhun https://github.com/viktoriyavorozhun
-- Maksim Shastel https://github.com/shastel
-- Maksim Shylau https://github.com/AlreadyBored
-- Pavel Razuvalau https://github.com/pavelrazuvalau 
-- Dzmitry Varabei https://github.com/dzmitry-varabei
-- Varvara Deviaterikova https://github.com/hallovarvara
-- Uladzimir Halushka https://github.com/humanamburu
+[![Aleh Serhiyenia](https://github.com/pulya10c.png?size=63)](https://github.com/pulya10c)
+[![Viktoryia Vorozhun](https://github.com/viktoriyavorozhun.png?size=63)](https://github.com/viktoriyavorozhun)
+[![Maksim Shastel](https://github.com/shastel.png?size=63)](https://github.com/shastel)
+[![Maksim Shylau](https://github.com/AlreadyBored.png?size=63)](https://github.com/AlreadyBored)
+[![Pavel Razuvalau](https://github.com/pavelrazuvalau.png?size=63)](https://github.com/pavelrazuvalau )
+[![Dzmitry Varabei](https://github.com/dzmitry-varabei.png?size=63)](https://github.com/dzmitry-varabei)
+[![Varvara Deviaterikova](https://github.com/hallovarvara.png?size=63)](https://github.com/hallovarvara)
+[![Uladzimir Halushka](https://github.com/humanamburu.png?size=63)](https://github.com/humanamburu)
 
 
 
