@@ -23,6 +23,8 @@ For any questions use Discord.
 * Plugins
 * Loaders
 * Webpack Dev Server
+* react app creation from scratch
+* webpack configuration 
 
 ### Materials:
 - [Lecture (video)](https://youtu.be/2ODZXRrEn28)
@@ -68,8 +70,6 @@ Form for questions: https://docs.google.com/document/d/1u86RSOAVfrSmiziIB3gXwI9y
 * conditional rendering
 
 ### 2 part (practice)
-* react app creation from scratch
-* webpack configuration 
 * hello world stateless component (basic syntax, jsx)
 * statefull counter component (event handling, ```this``` binding problem)
 * users list component (key prop explained)
