@@ -156,6 +156,7 @@ Deadline: Такой же как для Fancy weather
 - Pavel Razuvalau https://github.com/pavelrazuvalau 
 - Dzmitry Varabei https://github.com/dzmitry-varabei
 - Varvara Deviaterikova https://github.com/hallovarvara
+- Uladzimir Halushka https://github.com/humanamburu
 
 
 
