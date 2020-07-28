@@ -24,7 +24,7 @@ https://community-z.com/events/js-fundamentals
 #### Задание: 
   - [Codewars #1](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/codewars-stage-1.md)  
   - Deadline:  14 Июня 2020 23:59 GMT+3  
-  - Ментор: Dzmitry Varabei 
+  - Ментор: [@Dzmitry Varabei](https://github.com/dzmitry-varabei)
   
 ## Неделя #1. Основы HTML и CSS
 - Базовые знания по HTML, CSS
@@ -36,7 +36,7 @@ https://community-z.com/events/js-fundamentals
 - [Singolo: Часть первая.](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/markups/level-2/singolo/part-1)
 - [Singolo: Часть третья.](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/markups/level-2/singolo/part-3)
 - Deadline:  14 Июня 2020 23:59 GMT+3 
-- Ментор: Viktoryia Vorozhun  
+- Ментор: [@Viktoryia Vorozhun](https://github.com/ViktoriyaVorozhun)
 
 #### Материалы для самостоятельного изучения
 Рекомендуется смотреть на скорости 1.25 или 1.5:
@@ -56,14 +56,14 @@ https://community-z.com/events/js-fundamentals
 #### Задание: 
 - [Singolo: Часть вторая.](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/markups/level-2/singolo/part-2) 
 - Deadline:  21 Июня 2020 23:59 GMT+3
-- Ментор: Viktoryia Vorozhun
+- Ментор: [@Viktoryia Vorozhun](https://github.com/ViktoriyaVorozhun)
 
 #### Материалы для самостоятельного изучения:
 - https://www.youtube.com/playlist?list=PLzLiprpVuH8dEodh5dKfn4SJpITOvczr9 (часть 3-4)
 - https://www.youtube.com/watch?v=JO8DvVZbxDw&t=6s (по желанию, при работе с препроцессорами)
 
 #### Лекция. Q&A:
-18 Июня 2020 15:00 GMT+3 @Viktoryia Vorozhun
+18 Июня 2020 15:00 GMT+3 [@Viktoryia Vorozhun](https://github.com/ViktoriyaVorozhun)
 
 ## Неделя #3. Кросс-чек Singolo. Code review. 
 #### Cross-check Singolo
@@ -72,7 +72,7 @@ https://community-z.com/events/js-fundamentals
 - Дата окончания: 25 июня
 
 #### Лекция. Q&A:
-25 Июня 2020 15:00 GMT+3 @Viktoryia Vorozhun
+25 Июня 2020 15:00 GMT+3 [@Viktoryia Vorozhun](https://github.com/ViktoriyaVorozhun)
 
 ## Неделя #4 Изучение основ JavaScript
 - Main concepts and differents from other languages:
@@ -90,7 +90,7 @@ https://community-z.com/events/js-fundamentals
 - [Core JS (optional)](https://github.com/mikhama/core-js-101)
 - Deadline: 7 Июля 2020
 
-- Менторы: Maksim Shastel, Maksim Shylau
+- Менторы: [@Maksim Shastel](https://github.com/Shastel), [@Maksim Shylau](https://github.com/AlreadyBored)
 
 ## Материалы для самостоятельного изучения: 
 - Вариант 1: https://learn.javascript.ru/ или его англоязычная версия https://javascript.info/
@@ -103,13 +103,13 @@ https://community-z.com/events/js-fundamentals
   * [Data Structures with JS](https://www.youtube.com/watch?v=j6w_ZJSYNRU) approx 1h, optional
 
 #### Лекция. Q&A: 
-7 Июля 2020 15:00 GMT+3 @Maksim Shastel
+7 Июля 2020 15:00 GMT+3 [@Maksim Shastel](https://github.com/Shastel)
 
 ## Неделя #5 Изучение основ DOM & DOM Events
 #### Задание: 
 - [Virtual Keyboard](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/virtual-keyboard/virtual-keyboard-ru.md)
 - Deadline: 15 Июля 2020
-- Менторы: Aleh Serhiyenia, TBD
+- Менторы: [@Aleh Serhiyenia](https://github.com/Pulya10c)
 
 #### Self education (recommended speed 1.5):
 * [JS DOM](https://www.youtube.com/watch?v=lHsQ6EEp3ms), aprox 1h 30m
@@ -118,12 +118,12 @@ https://community-z.com/events/js-fundamentals
 * [Event Loop & Animations](https://www.youtube.com/watch?v=dWE3WEpqr7M), aprox 1h, Optional
 
 #### Лекция. Q&A:
-8 Июля 2020 15:00 GMT+3 @Aleh Serhiyenia
+8 Июля 2020 15:00 GMT+3 [@Aleh Serhiyenia](https://github.com/Pulya10c)
 
 ## Неделя #6 Modules, Async programming
 ####  Workshop. Q&A: 
-- Тема: Chat UI. 
-- 9 Июля 2020 15:00 GMT+3 @Maksim Shastel
+- Тема: NodeJS.
+- 31 Июля 2020 15:00 GMT+3 [@Uladzimir Halushka](https://github.com/humanamburu)
 
 #### Self education (recommended speed 1.5):
 * [JS Callbacks Promises](https://www.youtube.com/watch?v=0fFg3c4C9tA&t=1s), aprox 1h 20m
@@ -135,15 +135,18 @@ https://community-z.com/events/js-fundamentals
 * [Networking, 3/2](https://www.youtube.com/watch?v=DYR8g_kI9Xs), aprox 1h
 * [WebSockets](https://www.youtube.com/watch?v=AY466N_5TBw), aprox 15m
 
+#### Опциональное задание:
+[Chat UI](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/chat.md)
+Deadline: Такой же как для Fancy weather
 
 ## Неделя #7-8 Финальный проект
 #### Задание:
 - [Fancy weather](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/fancy-weather.md)
-- Deadline: 26 Июля 2020 23:59 GMT+3
-- Ментор: Pavel Razuvalau
+- Deadline: 16 Августа 2020 23:59 GMT+3
+- Ментор: [@Maksim Shastel](https://github.com/Shastel), [@Uladzimir Halushka](https://github.com/humanamburu)
 
 ## Неделя #9 Cross-интервью по CoreJS. Кросс-чек Fancy weather. Code review. 
-**Менторы**: Maksim Shastel, Pavel Razuvalau, TBD
+**Менторы**: [@Maksim Shastel](https://github.com/Shastel), [@Uladzimir Halushka](https://github.com/humanamburu)
 
 # Менторы и контрибьюторы этого курса:
 - Aleh Serhiyenia https://github.com/pulya10c
