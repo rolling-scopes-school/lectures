@@ -27,7 +27,7 @@ For any questions use Discord.
 * webpack configuration 
 
 ### Materials:
-- [Lecture (video)](https://youtu.be/2ODZXRrEn28)
+- [Lecture (video)](https://youtu.be/r1LbeeWzlhc)
 - [Slides](https://drive.google.com/file/d/10psw_ZPJYyT0Kkz-1vqLhsDyuSZgxTOu/view?usp=sharing)
 - [Code Examples](https://github.com/yuliaHope/webpac-react/branches)
 - Webpack screencast: https://www.youtube.com/playlist?list=PLOQDek48BpZFadeo_SJUNDggOKouA-nyM
