@@ -39,7 +39,7 @@ For any questions use Discord.
 
 https://github.com/rolling-scopes-school/tasks/blob/master/tasks/songbird.md
 
-Form for questions: https://docs.google.com/document/d/1p7xsA6wgcWB_-27bsV2llLULlZR7lYcXvNR5VuEI4Ck/edit?usp=sharing
+Form for questions: https://docs.google.com/spreadsheets/d/1CKx6BcS7DgFHPhdaB3IUoaNLUcGDlqHqus3wms5b1V4/edit#gid=0
 
 ## React. 2 Lecture. Components (Main)
 
