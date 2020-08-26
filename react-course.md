@@ -77,8 +77,8 @@ Form for questions: https://docs.google.com/document/d/1u86RSOAVfrSmiziIB3gXwI9y
 ### Materials:
 - [Lecture (video)](https://youtu.be/xo66V7lrinU)
 - [Slides](https://slides.com/yuliaka71/react-856420)
-- Everything you want and may need to know about React: https://reactjs.org/
-- Split app on components(examples):  https://drive.google.com/open?id=16kjgPAtIXpKKvpf4x_4-cbA_edWM01OT
+- [Everything you want and may need to know about React](https://reactjs.org/)
+- [Split app on components(examples)](https://drive.google.com/open?id=16kjgPAtIXpKKvpf4x_4-cbA_edWM01OT)
 
 ## React. 3 Lecture. Components(Advanced)
 
@@ -116,7 +116,6 @@ Form for questions: https://docs.google.com/document/d/1UEm5-YvbDbyk75gvfeFjXS_P
 - [Lecture (video)](https://youtu.be/WSK3MlZ-W4g)
 - [Slides]()
 - [Code Examples]()
-
 
 ## React. 4 Lecture. Hooks
 
@@ -228,7 +227,6 @@ Form for questions: https://docs.google.com/document/d/12i8sSn5K8qbDjYmOUYWY1kai
    [Why you should render React on the server side](https://blog.logrocket.com/why-you-should-render-react-on-the-server-side-a50507163b79/)<br>
    [ReactDOMServer documentation](https://ru.reactjs.org/docs/react-dom-server.html)<br>
    [Server-Side Rendering with React, Redux, and React-Router](https://itnext.io/server-side-rendering-with-react-redux-and-react-router-fa5b67d4965e)
-
 
 ## React. 9 Lecture. Testing
 
