@@ -32,6 +32,7 @@ For any questions use Discord.
 - [Code Examples](https://github.com/yuliaHope/webpac-react/branches)
 - Webpack screencast: https://www.youtube.com/playlist?list=PLOQDek48BpZFadeo_SJUNDggOKouA-nyM
 -  Articles:
+
   <https://github.com/webpack-contrib/eslint-loader#failonerror><br>
   <https://codeburst.io/react-bake-from-scratch-or-box-javascript-version-smackdown-8a4d31f105d7>
     
@@ -45,11 +46,9 @@ Form for questions: https://docs.google.com/spreadsheets/d/1CKx6BcS7DgFHPhdaB3IU
 
 ### Before the lecture
 
-   [Hello, world](https://reactjs.org/docs/hello-world.html)
-   
-   [Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
-   
-   [Rendering Elements](https://reactjs.org/docs/rendering-elements.html)
+   [Hello, world](https://reactjs.org/docs/hello-world.html)<br>
+   [Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)<br>
+   [Rendering Elements](https://reactjs.org/docs/rendering-elements.html)<br>
     
    [Components and Props](https://reactjs.org/docs/components-and-props.html)
     
