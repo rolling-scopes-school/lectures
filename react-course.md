@@ -45,14 +45,14 @@ Form for questions: https://docs.google.com/spreadsheets/d/1CKx6BcS7DgFHPhdaB3IU
 
 ### Before the lecture
 
-https://reactjs.org/docs/hello-world.html
-https://reactjs.org/docs/introducing-jsx.html
-https://reactjs.org/docs/rendering-elements.html
-https://reactjs.org/docs/components-and-props.html
-https://reactjs.org/docs/state-and-lifecycle.html
-https://reactjs.org/docs/handling-events.html
-https://reactjs.org/docs/conditional-rendering.html
-https://reactjs.org/docs/lists-and-keys.html
+    https://reactjs.org/docs/hello-world.html
+    https://reactjs.org/docs/introducing-jsx.html
+    https://reactjs.org/docs/rendering-elements.html
+    https://reactjs.org/docs/components-and-props.html
+    https://reactjs.org/docs/state-and-lifecycle.html
+    https://reactjs.org/docs/handling-events.html
+    https://reactjs.org/docs/conditional-rendering.html
+    https://reactjs.org/docs/lists-and-keys.html
 
 Form for questions: https://docs.google.com/document/d/1u86RSOAVfrSmiziIB3gXwI9yOw0Xty8QIvNG0GPB7FI/edit?usp=sharing
 
@@ -85,13 +85,13 @@ Form for questions: https://docs.google.com/document/d/1u86RSOAVfrSmiziIB3gXwI9y
 
 ### Before the lecture
 
-https://reactjs.org/docs/reconciliation.html
-https://reactjs.org/docs/typechecking-with-proptypes.html
-https://reactjs.org/docs/refs-and-the-dom.html
-https://reactjs.org/docs/context.html
-https://reactjs.org/docs/higher-order-components.html
-https://reactjs.org/docs/portals.html
-https://reactjs.org/docs/render-props.html
+    https://reactjs.org/docs/reconciliation.html
+    https://reactjs.org/docs/typechecking-with-proptypes.html
+    https://reactjs.org/docs/refs-and-the-dom.html
+    https://reactjs.org/docs/context.html
+    https://reactjs.org/docs/higher-order-components.html
+    https://reactjs.org/docs/portals.html
+    https://reactjs.org/docs/render-props.html
 
 Form for questions: https://docs.google.com/document/d/1UEm5-YvbDbyk75gvfeFjXS_PhP5cFQNzvztL99RR1_A/edit?usp=sharing
 
@@ -124,12 +124,12 @@ Form for questions: https://docs.google.com/document/d/1UEm5-YvbDbyk75gvfeFjXS_P
 
 ### Before the lecture
 
-https://reactjs.org/docs/hooks-intro.html
-https://reactjs.org/docs/hooks-overview.html
-https://reactjs.org/docs/hooks-state.html
-https://reactjs.org/docs/hooks-effect.html
-https://reactjs.org/docs/hooks-rules.html
-https://reactjs.org/docs/hooks-custom.html
+    https://reactjs.org/docs/hooks-intro.html
+    https://reactjs.org/docs/hooks-overview.html
+    https://reactjs.org/docs/hooks-state.html
+    https://reactjs.org/docs/hooks-effect.html
+    https://reactjs.org/docs/hooks-rules.html
+    https://reactjs.org/docs/hooks-custom.html
 
 Form for questions: https://docs.google.com/document/d/1Uz08VF7V33UHGB7-o4AMI-CMzyI1B-IspWwP1msRfco/edit?usp=sharing
 
@@ -177,10 +177,10 @@ Form for questions: https://docs.google.com/document/d/1EYVxVrQMSYe7djvljAvcYtxt
 
 ### Before the lecture
 
-https://redux.js.org/introduction/motivation
-https://redux.js.org/introduction/core-concepts
-https://redux.js.org/introduction/three-principles
-https://redux.js.org/introduction/ecosystem
+    https://redux.js.org/introduction/motivation
+    https://redux.js.org/introduction/core-concepts
+    https://redux.js.org/introduction/three-principles
+    https://redux.js.org/introduction/ecosystem
 
 Form for questions: https://docs.google.com/document/d/1IZpVZTCegi7rmVXcZpp-rE_Z_UZbWjgrT06qszGFBaU/edit?usp=sharing
 
