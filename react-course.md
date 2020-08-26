@@ -165,7 +165,7 @@ Form for questions: https://docs.google.com/document/d/1EYVxVrQMSYe7djvljAvcYtxt
 ### Materials:
 - [Lecture (video)](https://youtu.be/YwOkBljMNpc)
 - [Slides](https://andre-gl.github.io/talks-react-router/)
-- Articles:
+- Articles:<br>
     [The philosophy of React Router](https://reacttraining.com/react-router/web/guides/philosophy)<br>
     [Run the React Router v4 Examples with Create React App](https://egghead.io/lessons/react-run-the-react-router-v4-examples-with-create-react-app)
 
