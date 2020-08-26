@@ -30,7 +30,7 @@ For any questions use Discord.
 - [Lecture (video)](https://youtu.be/r1LbeeWzlhc)
 - [Slides](https://drive.google.com/file/d/10psw_ZPJYyT0Kkz-1vqLhsDyuSZgxTOu/view?usp=sharing)
 - [Code Examples](https://github.com/yuliaHope/webpac-react/branches)
-- Webpack screencast: https://www.youtube.com/playlist?list=PLOQDek48BpZFadeo_SJUNDggOKouA-nyM
+- [Webpack screencast](https://www.youtube.com/playlist?list=PLOQDek48BpZFadeo_SJUNDggOKouA-nyM)
 -  Articles: <br>
    <https://github.com/webpack-contrib/eslint-loader#failonerror><br>
    <https://codeburst.io/react-bake-from-scratch-or-box-javascript-version-smackdown-8a4d31f105d7>
