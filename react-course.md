@@ -32,7 +32,6 @@ For any questions use Discord.
 - [Code Examples](https://github.com/yuliaHope/webpac-react/branches)
 - Webpack screencast: https://www.youtube.com/playlist?list=PLOQDek48BpZFadeo_SJUNDggOKouA-nyM
 -  Articles:
-
   <https://github.com/webpack-contrib/eslint-loader#failonerror><br>
   <https://codeburst.io/react-bake-from-scratch-or-box-javascript-version-smackdown-8a4d31f105d7>
     
