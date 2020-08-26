@@ -48,16 +48,11 @@ Form for questions: https://docs.google.com/spreadsheets/d/1CKx6BcS7DgFHPhdaB3IU
 
    [Hello, world](https://reactjs.org/docs/hello-world.html)<br>
    [Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)<br>
-   [Rendering Elements](https://reactjs.org/docs/rendering-elements.html)<br>
-    
-   [Components and Props](https://reactjs.org/docs/components-and-props.html)
-    
-   [State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
-    
-   [Handling Events](https://reactjs.org/docs/handling-events.html)
-    
-   [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
-    
+   [Rendering Elements](https://reactjs.org/docs/rendering-elements.html)<br><br>
+   [Components and Props](https://reactjs.org/docs/components-and-props.html)<br>
+   [State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)<br>
+   [Handling Events](https://reactjs.org/docs/handling-events.html)<br>
+   [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)<br>
    [Lists and Keys](https://reactjs.org/docs/lists-and-keys.html)
 
 Form for questions: https://docs.google.com/document/d/1u86RSOAVfrSmiziIB3gXwI9yOw0Xty8QIvNG0GPB7FI/edit?usp=sharing
@@ -91,13 +86,13 @@ Form for questions: https://docs.google.com/document/d/1u86RSOAVfrSmiziIB3gXwI9y
 
 ### Before the lecture
 
-    https://reactjs.org/docs/reconciliation.html
-    https://reactjs.org/docs/typechecking-with-proptypes.html
-    https://reactjs.org/docs/refs-and-the-dom.html
-    https://reactjs.org/docs/context.html
-    https://reactjs.org/docs/higher-order-components.html
-    https://reactjs.org/docs/portals.html
-    https://reactjs.org/docs/render-props.html
+   [Reconciliation](https://reactjs.org/docs/reconciliation.html)<br>
+   [Typechecking With PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)<br>
+   [Refs and the DOM](https://reactjs.org/docs/refs-and-the-dom.html)<br>
+   [Context](https://reactjs.org/docs/context.html)<br>
+   [Higher-Order Components](https://reactjs.org/docs/higher-order-components.html)<br>
+   [Portals](https://reactjs.org/docs/portals.html)<br>
+   [Render Props](https://reactjs.org/docs/render-props.html)
 
 Form for questions: https://docs.google.com/document/d/1UEm5-YvbDbyk75gvfeFjXS_PhP5cFQNzvztL99RR1_A/edit?usp=sharing
 
@@ -130,12 +125,12 @@ Form for questions: https://docs.google.com/document/d/1UEm5-YvbDbyk75gvfeFjXS_P
 
 ### Before the lecture
 
-    https://reactjs.org/docs/hooks-intro.html
-    https://reactjs.org/docs/hooks-overview.html
-    https://reactjs.org/docs/hooks-state.html
-    https://reactjs.org/docs/hooks-effect.html
-    https://reactjs.org/docs/hooks-rules.html
-    https://reactjs.org/docs/hooks-custom.html
+   [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html)<br>
+   [Hooks at a Glance](https://reactjs.org/docs/hooks-overview.html)<br>
+   [Using the State Hook](https://reactjs.org/docs/hooks-state.html)<br>
+   [Using the Effect Hook](https://reactjs.org/docs/hooks-effect.html)<br>
+   [Rules of Hooks](https://reactjs.org/docs/hooks-rules.html)<br>
+   [Building Your Own Hooks](https://reactjs.org/docs/hooks-custom.html)
 
 Form for questions: https://docs.google.com/document/d/1Uz08VF7V33UHGB7-o4AMI-CMzyI1B-IspWwP1msRfco/edit?usp=sharing
 
@@ -176,17 +171,18 @@ Form for questions: https://docs.google.com/document/d/1EYVxVrQMSYe7djvljAvcYtxt
 - [Lecture (video)](https://youtu.be/YwOkBljMNpc)
 - [Slides](https://andre-gl.github.io/talks-react-router/)
 - Articles:
-    https://reacttraining.com/react-router/web/guides/philosophy
-    https://egghead.io/lessons/react-run-the-react-router-v4-examples-with-create-react-app
+
+    [The philosophy of React Router](https://reacttraining.com/react-router/web/guides/philosophy)<br>
+    [Run the React Router v4 Examples with Create React App](https://egghead.io/lessons/react-run-the-react-router-v4-examples-with-create-react-app)
 
 ## React. 6 Lecture. Flux+Redux
 
 ### Before the lecture
 
-    https://redux.js.org/introduction/motivation
-    https://redux.js.org/introduction/core-concepts
-    https://redux.js.org/introduction/three-principles
-    https://redux.js.org/introduction/ecosystem
+   [Redux motivation](https://redux.js.org/introduction/motivation)<br>
+   [Redux core concepts](https://redux.js.org/introduction/core-concepts)<br>
+   [Three Principles](https://redux.js.org/introduction/three-principles)<br>
+   [Ecosystem](https://redux.js.org/introduction/ecosystem)
 
 Form for questions: https://docs.google.com/document/d/1IZpVZTCegi7rmVXcZpp-rE_Z_UZbWjgrT06qszGFBaU/edit?usp=sharing
 
@@ -210,10 +206,10 @@ Form for questions: https://docs.google.com/document/d/1IZpVZTCegi7rmVXcZpp-rE_Z
 - [Slides](https://slides.com/artemsinicyn/deck)
 - [Code Examples](https://github.com/cardamo/redux-with-tests-example-4rss)
 - Articles:
-    https://github.com/mobxjs/mobx
-    https://github.com/CharlesStover/reactn
-    https://github.com/andregardi/use-global-hook#readme
-    https://react-redux.js.org/next/api/hooks
+   [MobX github readme](https://github.com/mobxjs/mobx)<br>
+   [ReactN github readme](https://github.com/CharlesStover/reactn)<br>
+   [use-global-hook github readme](https://github.com/andregardi/use-global-hook#readme)<br>
+   [React Redux hooks documentation](https://react-redux.js.org/next/api/hooks)
     
 ## React. 7 Lecture. Grapgql
 
@@ -236,9 +232,10 @@ Form for questions: https://docs.google.com/document/d/12i8sSn5K8qbDjYmOUYWY1kai
 - [Slides](https://slides.com/yuliaka71/deck)
 - [Code Examples](https://github.com/yuliaHope/ssr-test-example)
 - Articles:
-    https://blog.logrocket.com/why-you-should-render-react-on-the-server-side-a50507163b79/
-    https://ru.reactjs.org/docs/react-dom-server.html
-    https://itnext.io/server-side-rendering-with-react-redux-and-react-router-fa5b67d4965e
+
+   [Why you should render React on the server side](https://blog.logrocket.com/why-you-should-render-react-on-the-server-side-a50507163b79/)<br>
+   [ReactDOMServer documentation](https://ru.reactjs.org/docs/react-dom-server.html)<br>
+   [Server-Side Rendering with React, Redux, and React-Router](https://itnext.io/server-side-rendering-with-react-redux-and-react-router-fa5b67d4965e)
 GitHub
 
 ## React. 9 Lecture. Testing
