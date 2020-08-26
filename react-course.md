@@ -44,14 +44,22 @@ Form for questions: https://docs.google.com/spreadsheets/d/1CKx6BcS7DgFHPhdaB3IU
 ## React. 2 Lecture. Components (Main)
 
 ### Before the lecture
-   [Hello, world][https://reactjs.org/docs/hello-world.html]
+
+   [Hello, world](https://reactjs.org/docs/hello-world.html)
+   
    [Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
-    https://reactjs.org/docs/rendering-elements.html
-    https://reactjs.org/docs/components-and-props.html
-    https://reactjs.org/docs/state-and-lifecycle.html
-    https://reactjs.org/docs/handling-events.html
-    https://reactjs.org/docs/conditional-rendering.html
-    https://reactjs.org/docs/lists-and-keys.html
+   
+   [Rendering Elements](https://reactjs.org/docs/rendering-elements.html)
+    
+   [Components and Props](https://reactjs.org/docs/components-and-props.html)
+    
+   [State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
+    
+   [Handling Events](https://reactjs.org/docs/handling-events.html)
+    
+   [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
+    
+   [Lists and Keys](https://reactjs.org/docs/lists-and-keys.html)
 
 Form for questions: https://docs.google.com/document/d/1u86RSOAVfrSmiziIB3gXwI9yOw0Xty8QIvNG0GPB7FI/edit?usp=sharing
 
