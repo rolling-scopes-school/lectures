@@ -45,7 +45,7 @@ Form for questions: https://docs.google.com/spreadsheets/d/1CKx6BcS7DgFHPhdaB3IU
 
 ### Before the lecture
 
-    https://reactjs.org/docs/hello-world.html
+    [Hello, world](https://reactjs.org/docs/hello-world.html)
     https://reactjs.org/docs/introducing-jsx.html
     https://reactjs.org/docs/rendering-elements.html
     https://reactjs.org/docs/components-and-props.html
