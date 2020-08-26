@@ -31,8 +31,7 @@ For any questions use Discord.
 - [Slides](https://drive.google.com/file/d/10psw_ZPJYyT0Kkz-1vqLhsDyuSZgxTOu/view?usp=sharing)
 - [Code Examples](https://github.com/yuliaHope/webpac-react/branches)
 - Webpack screencast: https://www.youtube.com/playlist?list=PLOQDek48BpZFadeo_SJUNDggOKouA-nyM
--  Articles:
-
+-  Articles: <br>
   <https://github.com/webpack-contrib/eslint-loader#failonerror><br>
   <https://codeburst.io/react-bake-from-scratch-or-box-javascript-version-smackdown-8a4d31f105d7>
     
@@ -231,8 +230,7 @@ Form for questions: https://docs.google.com/document/d/12i8sSn5K8qbDjYmOUYWY1kai
 - [Lecture (video)](https://youtu.be/4cGApe7DsGY)
 - [Slides](https://slides.com/yuliaka71/deck)
 - [Code Examples](https://github.com/yuliaHope/ssr-test-example)
-- Articles:
-
+- Articles:<br>
    [Why you should render React on the server side](https://blog.logrocket.com/why-you-should-render-react-on-the-server-side-a50507163b79/)<br>
    [ReactDOMServer documentation](https://ru.reactjs.org/docs/react-dom-server.html)<br>
    [Server-Side Rendering with React, Redux, and React-Router](https://itnext.io/server-side-rendering-with-react-redux-and-react-router-fa5b67d4965e)
