@@ -1,4 +1,4 @@
-## Неделя №6
+## Неделя №6-7
  ### JavaScript. DOM elements, Browser events, other events.
  #### Дата и время
  1. [Дата и время](https://learn.javascript.ru/date) - 1 час
