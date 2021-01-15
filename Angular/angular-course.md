@@ -259,6 +259,8 @@
 - [Лекция (видео)](https://youtu.be/-8APehOVRLM)
 - [Слайды](https://drive.google.com/file/d/19m1kRSflNEVb7Z5zZRRPwVcFcu1oA54h/view?usp=sharing)
 
+#### Задание:
+
 - [Angular. NgRx](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/angular-new/angular-ngrx.md)
 - Ментор: Aleh Serhiyenia
 
