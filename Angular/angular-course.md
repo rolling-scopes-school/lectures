@@ -31,7 +31,7 @@
 
 #### Задание:
 
-- [Angular intro]()
+- [Angular intro](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/angular-new/angular-intro.md)
 - Ментор: Aleh Serhiyenia
 
 #### Материалы для изучения
@@ -62,7 +62,7 @@
 
 #### Задание:
 
-- [Angular. Components]()
+- [Angular. Components](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/angular-new/angular-components.md)
 - Ментор: Aleh Serhiyenia
 
 #### Материалы для изучения:
@@ -83,7 +83,7 @@
 #### Лекция. Q&A:
 
 - Дата: смотрите в расписании
-- Тренер: Aleh Serhiyenia
+- Тренер: Dzianis Davydau
 
 # Неделя 2
 
@@ -102,8 +102,8 @@
 
 #### Задание:
 
-- [Angular. Modules]()
-- [Angular. Services]()
+- [Angular. Modules](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/angular-new/angular-modules.md)
+- [Angular. Services](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/angular-new/angular-services-di.md)
 - Ментор: Aleh Serhiyenia
 
 #### Материалы для изучения:
@@ -124,7 +124,7 @@
 #### Лекция. Q&A:
 
 - Дата: смотрите в расписании
-- Тренер: Aleh Serhiyenia
+- Тренер: Dzianis Davydau
 
 ## Модуль #4. Angular. Directives & Pipes.
 
@@ -149,8 +149,8 @@
 
 #### Задание:
 
-- [Angular. Pipes]()
-- [Angular. Directives]()
+- [Angular. Pipes](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/angular-new/angular-pipes.md)
+- [Angular. Directives](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/angular-new/angular-directives.md)
 - Ментор: Aleh Serhiyenia
 
 # Неделя 3
@@ -159,7 +159,7 @@
 
 - Разбор задания `Angular. Components`, `Angular. Services`, `Angular. Modules`.
 - Дата: смотрите в расписании.
-- Ментор: Aleh Serhiyenia.
+- Ментор: Aleh Serhiyenia
 
 ## Модуль #5. Angular. Routing
 
@@ -171,7 +171,7 @@
 
 #### Задание:
 
-- [Angular. Routing]()
+- [Angular. Routing](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/angular-new/angular-routing.md)
 - Ментор: Aleh Serhiyenia
 
 ### Материалы для изучения:
@@ -189,7 +189,7 @@
 #### Лекция. Q&A:
 
 - Дата: смотрите в расписании
-- Тренер: Aleh Serhiyenia
+- Тренер: Dzianis Davydau
 
 ## Модуль #6. Angular. HTTP. RxJS & Observables
 
@@ -201,7 +201,7 @@
 
 #### Задание:
 
-- [Angular. HTTPClient]()
+- [Angular. HTTPClient](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/angular-new/angular-httpclient.md)
 - Ментор: Aleh Serhiyenia
 
 #### Материалы для изучения HTTP:
@@ -230,21 +230,9 @@
 
 #### Лекция. Q&A:
 
+- Дата: смотрите в расписании
 - Тренер: Dzianis Davydau
 
-### Task review:
-
-- Разбор заданий `Angular. Components, Directives, Pipes`.
-- Выдача нового задания `Angular. Modules & Services, Routing`.
-- Дата: смотрите в расписании.
-- Ментор: Aleh Serhiyenia.
-
-### Task review:
-
-- Разбор задания `Angular. Modules & Services, Routing`.
-- Выдача нового задания `Angular. RxJS & Observables. HTTP`.
-- Дата: смотрите в расписании.
-- Ментор: Aleh Serhiyenia.
 
 # Неделя 4
 
@@ -264,12 +252,15 @@
 #### Лекция. Q&A:
 
 - Дата: смотреть в расписании
-- Тренер:
+- Тренер: Aleh Serhiyenia
 
 ### Материалы для изучения:
 
 - [Лекция (видео)](https://youtu.be/-8APehOVRLM)
 - [Слайды](https://drive.google.com/file/d/19m1kRSflNEVb7Z5zZRRPwVcFcu1oA54h/view?usp=sharing)
+
+- [Angular. NgRx](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/angular-new/angular-ngrx.md)
+- Ментор: Aleh Serhiyenia
 
 ## Модуль #8. Angular. Unit test.
 
@@ -293,6 +284,12 @@
 - https://www.kenneth-truyers.net/2012/12/15/key-qualities-of-a-good-unit-test/
 - https://www.youtube.com/watch?v=Eu35xM76kKY
 - https://github.com/stas-dolgachov/angular-testing-lecture
+
+#### Задание:
+
+- [Angular. Tests](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/angular-new/angular-unit-tests.md)
+- Ментор: Aleh Serhiyenia
+
 
 # Неделя 5
 
