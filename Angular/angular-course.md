@@ -308,3 +308,5 @@
 - Тренер:
 
 ## Модуль #9. Финальное задание.
+
+[RS Lang](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/angular-new/angular-rslang.md)
