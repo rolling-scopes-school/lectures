@@ -191,10 +191,8 @@
 - Дата: смотрите в расписании
 - Тренер: Dzianis Davydau
 
-## Модуль #6. Angular. HTTP. RxJS & Observables
+## Модуль #6. Angular. HTTP.
 
-- Принципы реактивного программирования для `JavaScript`.
-- `Observable`. `Subject`. Операторы `RxJS`.
 - Модуль `HttpClientModule`.
 - Объект `HttpTypeEvent`.
 - Перехват HTTP-запросов с помощью `Http Interceptor`.
@@ -218,15 +216,6 @@
 - https://angular.io/api/common/http/HttpHeaders
 - https://angular.io/api/common/http/HttpParams
 
-#### Материалы для изучения RxJS & Observables:
-
-- [Лекция RxJS & Observables (видео)](https://youtu.be/uXaMBTsuTbQ)
-- [Примеры из видео](https://slides.com/anton_bely/rxjs)
-- [Слайды](https://slides.com/pavelrazuvalau/angular-routing)
-- https://rxjs-dev.firebaseapp.com/api
-- http://rxmarbles.com/
-- https://www.learnrxjs.io/
-- https://www.npmjs.com/package/rxjs
 
 #### Лекция. Q&A:
 
@@ -242,7 +231,28 @@
 - Дата: смотрите в расписании.
 - Ментор: Aleh Serhiyenia.
 
-## Модуль #7. Angular. Redux & NgRx
+
+## Модуль #7. RxJS & Observables
+
+- Принципы реактивного программирования для `JavaScript`.
+- `Observable`. `Subject`. Операторы `RxJS`.
+
+#### Материалы для изучения RxJS & Observables:
+
+- [Лекция RxJS & Observables (видео)](https://youtu.be/uXaMBTsuTbQ)
+- [Примеры из видео](https://slides.com/anton_bely/rxjs)
+- [Слайды](https://slides.com/pavelrazuvalau/angular-routing)
+- https://rxjs-dev.firebaseapp.com/api
+- http://rxmarbles.com/
+- https://www.learnrxjs.io/
+- https://www.npmjs.com/package/rxjs
+
+#### Лекция. Q&A:
+
+- Дата: смотрите в расписании
+- Тренер: Dzianis Davydau
+
+## Модуль #8. Angular. Redux & NgRx
 
 - О библиотеке `NgRx`
 - Управление состоянием хранилища. `Store`, `Actions`, `Reducers`, `Selectors`.
@@ -264,7 +274,16 @@
 - [Angular. NgRx](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/angular-new/angular-ngrx.md)
 - Ментор: Aleh Serhiyenia
 
-## Модуль #8. Angular. Unit test.
+
+# Неделя 5
+
+### Task review:
+
+- Разбор задания `Angular. HTTPClient` и `Angular. NgRx`.
+- Дата: смотрите в расписании.
+- Ментор: Aleh Serhiyenia.
+
+## Модуль #9. Angular. Unit test.
 
 - Структура теста.
 - Тестирование компонентов с помощью `TestBed`.
@@ -292,21 +311,12 @@
 - [Angular. Tests](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/angular-new/angular-unit-tests.md)
 - Ментор: Aleh Serhiyenia
 
-
-# Неделя 5
-
-### Task review:
-
-- Разбор задания `Angular. HTTPClient` и `Angular. NgRx`, `Angular. Tests`.
-- Дата: смотрите в расписании.
-- Ментор: Aleh Serhiyenia.
-
 ## Итоговый тест по Angular
 
 - Дата старта: смотрите в расписании
 - Дата окончания: смотрите в расписании
 - Тренер:
 
-## Модуль #9. Финальное задание.
+## Модуль #10. Финальное задание.
 
 [RS Lang](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/angular-new/angular-rslang.md)
